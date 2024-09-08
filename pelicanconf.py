@@ -29,6 +29,8 @@ SOCIAL = (
     ("Another social link", "#"),
 )
 
+THEME = 'theme'
+
 DEFAULT_PAGINATION = False
 DEFAULT_DATE = 'fs'
 DEFAULT_CATEGORY = 'Articles'
