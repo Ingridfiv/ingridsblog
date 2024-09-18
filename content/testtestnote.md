@@ -1,7 +1,14 @@
 Title: A further test note
 Authors: REAL Ingrid
 Tags: pretend, test
-Summary: Does Old English letters work?
+Summary: Do Old English letters work?
+
+
+This was originally submitted to Notes & Queries, but after something like 18 months of faff (not just on their end), I decided it wasn’t worth it – the contribution is tiny! But maybe it’ll be useful to someone at some point. And it could be helpful as an overview of the early sources to the common motif of judges being influenced by fear, favour and greed in their judgements (though I could never quite get the structure of the article right and so it does present these sources in a slightly unintuitive way). Anyway!
+
+
+<b>A POSSIBLE SOURCE USED IN THE PROLOGUE TO KING ALFRED’S LAW-CODE</b>
+
 
 The translator responsible for rendering several chapters of Exodus into Old English for the prologue to the law-code of King Alfred of Wessex (r. 871–99) kept reasonably close to the Latin original. Some changes were made to syntax, phrasing and occasionally penalties or legal procedures, but it is never in doubt that we are reading a translation of parts of Exodus 20–23. However, one passage bears so little resemblance to the direct source of the surrounding material that it can’t be called a translation. The passage in question reads: 
 
