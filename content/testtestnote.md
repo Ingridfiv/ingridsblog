@@ -16,5 +16,11 @@ Dem ðu swiðe emne. Ne dem ðu oðerne dom þam welegan, oðerne ðam earman, n
 
 Judge very justly. Do not judge one judgement for the rich, another for the poor; do not judge one for one you love and another one you hate.  
 
-Given the surrounding verses, it ought to be a translation of Exodus 23:6: ‘Non declinabis in judicium pauperis’, ‘Do not go aside in the poor man’s judgment’ or Exodus 23:3 ‘Pauperis quoque non misereberis in judicio’, ‘Neither shall you favour a poor man in judgment’.
+Given the surrounding verses, it ought to be a translation of Exodus 23:6: ‘Non declinabis in judicium pauperis’, ‘Do not go aside in the poor man’s judgment’ or Exodus 23:3 ‘Pauperis quoque non misereberis in judicio’, ‘Neither shall you favour a poor man in judgment’.[^1]
+
+[^1]: It is preceded by a translation of Exodus 23:1, 23:2 and 23:4 and followed by Exodus 23:7 and 23:8. 
+
+The passage in the law-code is not drawn from elsewhere in the Bible, nor can the rewriting be explained by the logic underlying the other – less radical – alterations made to the biblical text.[^2]
+
+[^2]: For other adjustments in the biblical translation, see P. Wormald, <i>The Making of English Law: King Alfred to the twelfth century. Vol. 1, Legislation and its limits</i> (Oxford, 1999), 420–3; D. Pratt, <i>The Political Thought of King Alfred</i> (Cambridge, 2007), 230–2; K. Carella, ‘The Source of the Prologue to the Laws of Alfred’, <i>Peritia</i> xix (2005), 91–118; I. Ivarsen, ‘The Production of the Anglo-Saxon Laws from Alfred to Cnut’, (unpublished PhD thesis, University of St Andrews, 2020), 123–32. 
 
