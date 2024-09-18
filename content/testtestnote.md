@@ -1,10 +1,10 @@
-Title: A further test note
-Authors: REAL Ingrid
-Tags: pretend, test
-Summary: Do Old English letters work?
+Title: A possible source used in the prologue to King Alfred's law-code
+Authors: Ingrid Ivarsen
+Tags: Alfred, sources, Isidore, Charlemagne
+Summary: Tracing the sources for an unexplained translation in the biblical prologue to Alfred's laws
 
 
-This was originally submitted to Notes & Queries, but after something like 18 months of faff (not just on their end), I decided it wasn’t worth it – the contribution is tiny! But maybe it’ll be useful to someone at some point. And it could be helpful as an overview of the early sources to the common motif of judges being influenced by fear, favour and greed in their judgements (though I could never quite get the structure of the article right and so it does present these sources in a slightly unintuitive way). Anyway!
+This was originally submitted to <i>Notes & Queries</i>, but after something like 18 months of faff (not just on their end), I decided it wasn’t worth it – the contribution is tiny! But maybe it’ll be useful to someone at some point. And it could be helpful as an overview of the early sources to the common motif of judges being influenced by fear, favour and greed in their judgements (though I could never quite get the structure of the article right and so it does present these sources in a slightly unintuitive way). Anyway!
 
 
 <b>A POSSIBLE SOURCE USED IN THE PROLOGUE TO KING ALFRED’S LAW-CODE</b>
