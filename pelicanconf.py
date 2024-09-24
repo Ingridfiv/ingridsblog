@@ -1,5 +1,5 @@
 AUTHOR = 'Ingrid Ivarsen'
-SITENAME = "Notes on Anglo-Saxon Law"
+SITENAME = "Ingrid's Website"
 SITEURL = ""
 
 PATH = "content"
