@@ -1,10 +1,10 @@
 Title: A possible source used in the prologue to King Alfred's law-code
 Authors: Ingrid Ivarsen
-Tags: Alfred, sources, Isidore, Charlemagne
+Tags: Alfred, sources, Isidore, Charlemagne, Asser
 Summary: Tracing the sources for an unexplained translation in the biblical prologue to Alfred's laws
 
 
-This was originally submitted to <i>Notes & Queries</i>, but after something like 18 months of faff (not just on their end), I decided it wasn’t worth it – the contribution is tiny! But maybe it’ll be useful to someone at some point. And it could be helpful as an overview of the early sources to the common motif of judges being influenced by fear, favour and greed in their judgements (though I could never quite get the structure of the article right and so it does present these sources in a slightly unintuitive way). Anyway!
+This was originally submitted to <i>Notes & Queries</i>, but after something like 18 months of faff (not just on their end), I decided it wasn’t worth it for something so small. But maybe it’ll be useful to someone at some point. And it could be helpful as an overview of the early sources to the common motif of judges being influenced by fear, favour and greed in their judgements (though I could never quite get the structure of the article right and so it does present these sources in a slightly unintuitive way). Anyway!
 
 
 <h3>A POSSIBLE SOURCE USED IN THE PROLOGUE TO KING ALFRED’S LAW-CODE</h3>
@@ -44,7 +44,7 @@ The passage covers the poor and the rich, just like Alfred’s prologue, as well
 
 Crucially, this exhortation and the opposing pairs are used to explain not just Psalm 32:5 but also Exodus 23:3/6,  the Exodus verse(s) replaced in Alfred’s prologue. This offers us a convincing explanation for why the translator of the prologue departed from the biblical text at this point in the prologue. As the commentaries suggest, the message of Exodus 23:3/6 looks contradictory to other scriptural exhortation to justice, mercy and the protection of the poor. The translator involved with Alfred’s code may have reached for an interpretation of Exodus 23:3/6 instead of the biblical verse itself to make the meaning clearer and more in line with the overall purpose of the prologue. 
 
-As mentioned, there are signs of a broader cultural context of thinking carefully about just judgment and care of the poor at Alfred’s court, which could explain why verses like Exodus 23:3/6 would have seemed unacceptable to the makers of the law-code and why they reached for a text like the psalm commentaries to find a replacement. In his ***Vita Ælfredi***, Alfred’s advisor and biographer Asser stated that the king worked particularly hard to ensure justice for the poor, because their protection was part of his own and judges’ spiritual duty and it was necessary for the common good. If the king came across an unjust judgment (in any case, not just those involving the poor), he would[^7] 
+As mentioned, there are signs of a broader cultural context of thinking carefully about just judgment and care of the poor at Alfred’s court, which could explain why verses like Exodus 23:3/6 would have seemed unacceptable to the makers of the law-code and why they reached for a text like the psalm commentaries to find a replacement. In ***Asser's Vita Ælfredi***, Alfred’s advisor and biographer  stated that the king worked particularly hard to ensure justice for the poor, because their protection was part of his own and judges’ spiritual duty and it was necessary for the common good. If the king came across an unjust judgment (in any case, not just those involving the poor), he would[^7] 
 
 >…interrogabat quare tam nequiter iudicassent, utrum per ignorantiam aut propter aliam quamlibet malevolentiam, id est utrum pro aliquorum amore vel timore aut aliorum odio aut etiam pro alicuius pecuniae cupiditate. 
 >
@@ -98,7 +98,7 @@ Thus, it covers Alfred’s concept of love, though ‘fear’ takes the place of
 
 [^16]: Mordek et al., <i>Die Admonitio generalis</i>, 212.
 
-The 786 decrees and *Admonitio Generalis* both show signs of having been written by the Northumbrian scholar Alcuin, who was attached to Charlemagne’s court.[^17]  Alcuin is certainly the author of a third relevant Carolingian work to make use of the injustice motif. The passage in question is found in the chapter ***‘De judicibus’ in his De virtutibus et vitiis***. Like the 786 decrees and Admonitio, Alcuin cited Exodus 23:8 on the dangers of accepting bribes, before stating[^18] 
+The 786 decrees and *Admonitio Generalis* both show signs of having been written by the Northumbrian scholar Alcuin, who was attached to Charlemagne’s court.[^17]  Alcuin is certainly the author of a third relevant Carolingian work to make use of the injustice motif. The passage in question is found in the chapter ***‘De judicibus’ in Alcuin's De virtutibus et vitiis***. Like the 786 decrees and Admonitio, Alcuin cited Exodus 23:8 on the dangers of accepting bribes, before stating[^18] 
 
 >Qui innocentes damnat, vel impios justificat pro muneribus; vel cujuslibet personae amore vel odio [inique judicat, in Dei judicio vindictam sustinebit].
 >
