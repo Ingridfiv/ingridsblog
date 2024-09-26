@@ -1,7 +1,7 @@
 Title: The problems with 'Welsh' and 'English' in Ine's laws
 Authors: Ingrid Ivarsen
 Tags: Ine, Lex Salica, Alfred, translation
-Summary: Criticizing historians' use of 'English' and 'Welsh' in Ine's laws as evidence
+Summary: Criticizing historians' use of 'English' and 'Welsh/Britons' in Ine's laws as evidence.
 
 The laws of the West Saxon king Ine (r. 688–726) are irresistible. They’re not the earliest laws we have, but they are much more revealing than any of the other seventh-century laws from the Anglo-Saxon kingdoms. I think few people are immediately taken with the dreary procedural offences in *Hlothhere & Eadric* (issued in the 680s) or the church-council-esque decree of King Wihtræd (695). Of course, the earliest surviving law-text, the laws of Æthelberht (d. c. 616), is fascinating, but mostly because of what it hides. And for some of us, there's too much that's hidden and unknowlable.
 
