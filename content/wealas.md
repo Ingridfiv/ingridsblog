@@ -1,7 +1,7 @@
 Title: The problems with 'Welsh' and 'English' in Ine's laws
 Authors: Ingrid Ivarsen
 Tags: Ine, Lex Salica, Alfred, translation
-Summary: Criticizing historians' use of 'English' and 'Welsh/Britons' in Ine's laws as evidence.
+Summary: Historians and others have made extensive use of the ethnic labels found in Ine's laws. But what are they actually evidence of?
 
 The laws of the West Saxon king Ine (r. 688–726) are irresistible. They’re not the earliest laws we have, but they are much more revealing than any of the other seventh-century laws from the Anglo-Saxon kingdoms. I think few people are immediately taken with the dreary procedural offences in *Hlothhere & Eadric* (issued in the 680s) or the church-council-esque decree of King Wihtræd (695). Of course, the earliest surviving law-text, the laws of Æthelberht (d. c. 616), is fascinating, but mostly because of what it hides. And for some of us, there's too much that's hidden and unknowlable.
 
@@ -28,7 +28,7 @@ Even people who disagree with this theory of mine must be more cautious – the 
 The evidence in question are the laws that mention a *wealh*, here to be understood as a Briton (though the word can also mean ‘foreigner’ or ‘slave’). For example, we learn that the wergild of a *wealh gafolgelda* ‘a British tax-payer’ is 120 shillings; that of a *wealh* with five hides of land is 600 shillings[^2]; and that of *cyninges horswealh* ‘the king’s horse-wealh’ is 200.[^3] There is a total of eight (nine?) clauses which mention this group, concerning mostly wergeld levels and precedures around accusations.
 
 [^2]: Much later, in the eleventh century, we are told that five hides of land is what it takes to make someone a thegn (a noble).
-[^3]: Ine 23.3, 24.2, 32, 33, 46.1, 54.2, 70, 74. See Grimmer 2007 pp. 104–5 for a more in-depth overview of these clauses
+[^3]: Ine 23.3, 24.2, 32, 33, 46.1, 54.2, 70, 74. See Grimmer 2007 pp. 104–5 for a more in-depth overview of these clauses.
 
 These laws have intrigued scholars. Who were these *wealas*, Britons? Were they British people drawn into the West Saxon sphere by territorial expansion or perhaps remnants of the Romano-British population in Wessex?[^4]
 
