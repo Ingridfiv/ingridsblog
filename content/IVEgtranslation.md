@@ -1,0 +1,14 @@
+Title: Translation of IV Edgar
+Category: Translations
+Tags: Edgar, Latin, Old English
+Authors: Ingrid Ivarsen
+Summary: Translations of the Old English and Latin versions, both from Cambridge, Corpus Christi College MS 265.
+
+
+|Old English version|Latin version|
+|-------------------|-------------|
+|[Prol.] Here in this document it is made known how king Edgar was looking into what might remedy the sudden pestilence which greatly troubled and diminished his people widely throughout his realm.|[Prol.] It is contained in this writing the manner in which the renowned king Edgar diligently began to query and investigate persistently how he could remedy the public affliction, that is the sudden death by a plague, which has troubled his country far and wide.|
+|[1] That is then first that it seemed to him and his witan that misfortune of this kind was earned through sins and disobedience to God’s commands, and particularly through the withholding of the necessary tax that Christian men ought to render to God in their tithes.|[1] And it seemed to him and all the leading men in his kingdom that the arrival of this thing happened because of a transgression of divine commands and most of all because people, truly having awareness of the faith, were unwilling to render tithes of their things.|
+|[1a] He considered and reflected on the divine through a familiar worldly occurrence:|[1a] Therefore, he, bringing up worthy exemplar from memory, said:|
+|[1.1] If any tenant should ignore the rent to his lord and not give it to him on the day on which it is due, it is to be expected, if the lord is merciful, that he should let that negligence be forgiven and receive his rent without a penalty.|[1.1] That, if anyone serving in the secular world should neglect the rent that he owes his lord and not make an effort to render it on the fixed day, which is not allowed to pass, it is to be expected that, if the same lord continues to be pious and merciful, providing relief from that negligence, then he should grant forgiveness and receive from him that which justly seems his without any punishment.|
+|[1.2] If he then reminds them forcibly about payment of his rent often through his messengers and he [the tenant] hardens and intends to stand fast, it is to be expected that the anger of the lord should grow so much that he would not allow him neither possessions or life.|[1.2] If indeed he demands these same things frequently through his heralds and he [the tenant], irritated and provoked to anger, wishes to defend his wrongful works through force, [it is] undoubtedly to be believed that the flame of the lord’s indignation against such men is rightly kindled to such a degree that he is considered to be unworthy of any possessions or even life.|

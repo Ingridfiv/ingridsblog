@@ -44,4 +44,5 @@ I think it’s just as much to do with the editions and translations historians 
 Liebermann is the edition used by most historians the last century, and his relegation of IV Eg Latin to this particular column seems to have had an effect. It was never included or picked up in the most recent English translation of the laws (Robertson in the 1930s) or other scholarship from that period. [Though, here there is also probably influence from the 19th and early 20th-century idea of the strong and important connection between English law and English language, which I’ll also write about some other time]. And it rarely features in scholarship now. Hopefully, the translation I’ve published HERE [LINK] might make it more accessible. Maybe someone can finally figure out what this strange text actually is. 
 
 
-![A spread from Liebermann's edition of IV Edgar. Not always easy to spot what's important]({static}/images/ivegLieb.png)
+![Two-pages from Liebermann's edition of IV Edgar]({static}/images/ivegLieb.png)
+*A spread from Liebermann's edition of IV Edgar, with the Latin text in the third column. Not always easy to spot what's important!*

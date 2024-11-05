@@ -1,6 +1,8 @@
 Title: A test of tables
 Authors: Ross Duncan
 Tags: Test, test, tables
+Summary: Just a test
+
 
 OK. Let's make a simple table.
 
