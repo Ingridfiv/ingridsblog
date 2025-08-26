@@ -4,7 +4,7 @@ Tags: Edgar, IV Edgar, translation, Old English, Latin
 Authors: Ingrid Ivarsen
 Summary: Translations of the Old English and Latin versions, both from Cambridge, Corpus Christi College MS 265.
 
-The original in the manuscript can be viewed [here](https://parker.stanford.edu/parker/catalog/nh277tk2537). Liebermann's *Die Gesetze der Angelsachsen* Volume I edits both versions on pp. 206–215 (MS C and Versio aus C). Translations are my own.
+The original in the manuscript can be viewed [here](https://parker.stanford.edu/parker/catalog/nh277tk2537). Liebermann's *Die Gesetze der Angelsachsen* Volume I edits both versions on pp. 206–215 (MS C and Versio aus C). Translations are my own, of course.
 
 |Old English version|Latin version      |
 |-------------------|-------------------|
