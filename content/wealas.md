@@ -29,34 +29,34 @@ Personally, I don't think that's the whole story. *Ine* may in fact be a ninth-c
 
 Even people who disagree with this theory of mine must be more cautious – the text of Ine’s laws has been passed down to us in a way that should make anyone suspicious and it has so many *odd* oddities (not like your normal oddities in Anglo-Saxon law). Relying on words and phrases from *Ine* is therefore problematic (general sense less so). No case is better to illustrate the problems than that of ethnicity. 
 
-[^2]: I. Ivarsen, ‘King Ine (688–726) and the Writing of English Law in Latin’, *English Historical Review* 137 (2022): 1–46; https://academic.oup.com/ehr/article/137/584/1/6530371
+[^2]: I. Ivarsen, [‘King Ine (688–726) and the Writing of English Law in Latin’, *English Historical Review* 137 (2022): 1–46](https://academic.oup.com/ehr/article/137/584/1/6530371).
 
 The evidence in question are the laws that mention a *wealh*, here to be understood as a Briton (though the word can also mean ‘foreigner’ or ‘slave’). For example, we learn that the wergild of a *wealh gafolgelda* ‘a British tax-payer’ is 120 shillings; that of a *wealh* with five hides of land is 600 shillings[^3]; and that of *cyninges horswealh* ‘the king’s horse-wealh’ is 200.[^4] There is a total of eight clauses which mention this group, concerning mostly wergeld levels and precedures around accusations.
 
 [^3]: Much later, in the eleventh century, we are told that five hides of land is what it takes to make someone a thegn (a noble).
-[^4]: Ine 23.3, 24.2, 32, 33, 46.1, 54.2, 70, 74. See Grimmer 2007 pp. 104–5 for a more in-depth overview of these clauses.
+[^4]: Ine 23.3, 24.2, 32, 33, 46.1, 54.2, 70, 74. See M. Grimmer, 'Britons in Early Wessex: The Evidence of the Law Code of Ine', in N. Higham (ed.), *Britons in Anglo-Saxon England* (2007), pp. 104–5 for a more in-depth overview of these clauses.
 
 These laws have intrigued scholars. Who were these *wealas* 'Britons'? Were they British people drawn into the West Saxon sphere by territorial expansion or perhaps remnants of the Romano-British population in Wessex?[^5]
 
-[^5]: ***Grimmer 2007 p. 110; Higham *English Empire* 239-40; Faull***
+[^5]: Grimmer 2007, p. 110; N. Higham, *An English empire: Bede and the early Anglo-Saxon kings* (1995), pp. 239–240; M.L. Faull, 'The Semantic Development of Old English *Wealh*', *Leeds Studies in English, New Series* 8 (1975): 20–44.
 
 The word *englisc* 'English' appears in some of these clauses too[^6] and presents just as many issues. What would be meant by this term used by a king of Wessex in the seventh century,long before we see other signs of a political sense of ‘the English’ or territorial organisation reflecting what would later be termed England? 
 
 [^6]: The word *englisc* appears four times in Ine (24, 46.1, 54.2, 74), always in clauses that also mention *wealh, wealas, wilisc mon*. 
 
-More than anything, the wergelds prescribed for *wealas* have attracted attention because they are around half of the wergeld of the ‘English’ (which are 200 shillings for a normal freeman, 600 and 1200 for those with more land and for nobles).[^7] Scholars have taken the wergeld disparity between Britons and the English to be a sign of the domination of the ‘Germanic’ West Saxons over the British, which squares with other evidence, such as the lack of influence of British language on Old English. 
+More than anything, the wergelds prescribed for *wealas* have attracted attention because they are around half of the wergeld of the ‘English’ (which are 200 shillings for a normal freeman, 600 and 1200 for those with more land and for nobles).[^7] Some scholars have taken the wergeld disparity between Britons and the English to be a sign of the domination of the ‘Germanic’ West Saxons over the British, which squares with other evidence, such as the lack of influence of British language on Old English. 
 
 [^7]: The wergelds of the *englisc* are not stated outright in Ine’s laws, but these sums are clear implications from other parts of the laws.
 
-Bryan Ward-Perkins suggested it may have been an attempt to encourage assimilation of the British, given the monetary/social benefits of being part of the politically dominant group.[^8] Alex Woolf suggested that these clauses showed an ‘apartheid’ system in operation between a patchwork of separate regions of Britons and West Saxons, where the mechanism of lower wergelds would eventually lead to the transfer of money and property from Britons to West Saxons.[^9] Over time, this could explain the disappearance of Britons, genetically, culturally and linguistically. 
+Bryan Ward-Perkins suggested it may have been an attempt to encourage assimilation of the British, given the monetary and social benefits of being part of the politically dominant group.[^8] Alex Woolf suggested that these clauses showed an ‘apartheid’ system in operation between a patchwork of separate regions of Britons and West Saxons, where the mechanism of lower wergelds would eventually lead to the transfer of money and property from Britons to West Saxons.[^9] Over time, this could explain the disappearance of Britons, genetically, culturally and linguistically. 
 
-[^8]: Ward-Perkins ‘why’ 523-4
-[^9]: Woolf, e.g. p. 128
+[^8]: B. Ward-Perkins, 'Why Did the Anglo-Saxons Not Become More British?', *The English Historical Review* 115 (2000): 513–533 at pp. 523-524.
+[^9]: A. Woolf, 'Apartheid and Economics in Anglo-Saxon England' in N. Higham (ed.), *Britons in Anglo-Saxon England* (2007), pp. 115–129 at e.g. p. 128.
 
-Such theories about Britons in *Ine* – and thus about Britons in early Wessex, since we often extrapolate from the specific context of the laws to early Wessex more generally – appear all over the place.[^10] It was even picked up by geneticists, in a study which used the apartheid model as a basis for interpreting Y-chromosome evidence.[^11]  
+Such theories about Britons in *Ine* – and thus about Britons in early Wessex, since we often extrapolate from the specific context of the laws to early Wessex more generally – appear relatively often.[^10] The evidence was even picked up by geneticists, in an article which uses the 'apartheid-like society' reflected by Ine's laws as part of the framing of their genetic findings.[^11]  
 
-[^10]: List all, see blue notebook
-[^11]: Weale et al. (2002)
+[^10]: See other articles cited here plus e.g. H. Härke, 'Anglo-Saxon Immigration and Ethnogenesis', *Medieval Archaeology* 55 (2011) and L.M. Alexander, 'The legal status of the native Britons in late seventh-century Wessex as reflected by the Law Code of Ine', *Haskins Society Journal* 7 (1995). The evidence from Ine is cited widely, if not always used for major arguments. 
+[^11]: [M.G. Thomas et al., 'Evidence for an apartheid-like social structure in early Anglo-Saxon England', *Proceedings of the Royal Society B: Biological Sciences* 273 (2006): 2651–2657, at p. 2652.](https://royalsocietypublishing.org/doi/10.1098/rspb.2006.3627)
 
 But these are grand theories built on shaky foundations. There are many issues with this evidence and scholars’ use of it. 
 
@@ -68,22 +68,22 @@ Even people who reject the translation theory have to acknowledge that the langu
 
 Secondly, it’s possible that Ine’s ethnic divides are imported, because there are equivalent laws in *Pactus legis salicae* (an early recension of *Lex Salica*), a Frankish code from the sixth century, which may well have been known in seventh-century Wessex.[^12] This code contains a set of clauses that distinguish between a *romanus* and a *francus/barbarus* and, like in Ine, these laws also set lower wergelds for *romani* than *franci*.[^13]   
 
-[^12]: Ivarsen (2022, 2024)
-[^13]: Pactus legis salicae 14.2–3, 39.4–5, 41.1, 41.8–10, 42.1. These clauses set out slightly different ratios between *romani* and *franci* than *Ine* gives between *wealas* and *englisc*, but they are always lower, usually by half. Romani and Franci also appear in *Lex Ripuaria*, from the early seventh century. These clauses were the subject of a long scholarly debate in France and Germany in the late nineteenth and early twentieth centuries, which centred on what might have been the relationship between the existing Roman population and the invading Franks; see .e.g. De Coulange (1876), Havet (1876), Brunner (1887), Stein (1929), Block (1946). 
+[^12]: Ivarsen (2022).
+[^13]: Pactus legis salicae 14.2–3, 39.4–5, 41.1, 41.8–10, 42.1. These clauses set out slightly different ratios between *romani* and *franci* than *Ine* gives between *wealas* and *englisc*, but they are always lower, usually by half. *Romani* and *Franci* also appear in *Lex Ripuaria*, from the early seventh century. These clauses were the subject of a long scholarly debate in France and Germany in the late nineteenth and early twentieth centuries, which centred on what might have been the relationship between the existing Roman population and the invading Franks; see .e.g. De Coulange (1876), Havet (1876), Brunner (1887), Stein (1929), Block (1946). 
 
 There are also some even closer parallels to *Ine*, since *Pactus* mentions, for instance, a *romanus tributarius* (§41.10) (the same as Ine’s *wealh gafoldgylda*) and *romanus homo conviva regis* (equivalent to Ine’s *cyninges horswealh*).[^15]
 
-[^15]: Pactus 41.8. See Faull, ‘Semantic development of OE wealh’, p. 28 for this argument. 
+[^15]: Pactus 41.8. See Faull (1975) p. 28 for this argument. 
 
 The existence of these continental parllels hasn’t been entirely overlooked.[^16] But there is practically no discussion of the problems this poses for taking Ine’s laws at face value. What if the inclusion of these laws is a result of knowledge of Frankish law, which the West-Saxon king thought sounded like a good idea for his own kingdom, but which never actually made it into practice or reflected much of the realities on the ground? We don’t know enough about the making of legislation in early medieval England to say that such influences couldn’t have played a role.  
 
-[^16]: MEL 105-6 maybe? Woolf raises the fact that LS clauses exist (pp. 128–9). Grimmer 2007, p. 106. Higham English Empire p. 239
+[^16]: P. Wormald, *The Making of English Law, Volume I**, e.g. pp. 105-106. Some raise the fact that Lex Salica clauses exist but without commenting on the implications (Woolf 2007, pp. 128–9, Grimmer 2007, p. 106, Higham 1995, p. 239).
 
-Given the close connections between Frankish royals and ecclesiastics and the people involved in law-writing in Wessex in the seventh century, it is difficult to believe that these parallels – *romanus/francus* and *wealh/englisc* – are independent of each other.[^17] It may of course have been inspired or borrowed from Frankish law and still become actual West Saxon practice. But that would have to be argued, not assumed. It seems that Ine’s evidence has been so attractive that not enough critical attention has been paid to it. 
+Given the close connections between Frankish royals and ecclesiastics and the people involved in law-writing in Wessex in the seventh century, it is difficult to believe that these parallels – *romanus/francus* and *wealh/englisc* – are independent of each other. It may of course have been inspired or borrowed from Frankish law and still become actual West Saxon practice. But that would have to be argued, not assumed. It seems that Ine’s evidence has been so attractive that not enough critical attention has been paid to it. 
 
-And there is also the assumption which is so often involved in studies of Anglo-Saxon laws, especially the earliest ones, namely that the laws are native texts, part of an isolated national genre containing laws which are responding to or reflecting on-the-ground conditions (whether this means that laws were actually followed or not is a different question). But these early laws can and should be treated as textual genres that were open to influences from elsewhere.
+And there is also the assumption which is so often involved in studies of Anglo-Saxon laws, especially the earliest ones, namely that the laws are native texts, part of an isolated national genre containing laws which are responding to or reflecting on-the-ground conditions (whether this means that laws were actually followed or not is a different question). But these early laws can and should be treated as textual genres that were open to influences from elsewhere.[^17]
 
-[^17]: for these connections, see Ivarsen (2024)
+[^17]: For connections between lawmakers across the channel in the seventh century, see I. Ivarsen, 'Innovation and Experimentation in Late Seventh-Century Law: the Case of Theodore, Hlothhere, Wihtræd and Ine', *Anglo-Saxon England* 50 (2021): 61–99.
 
 Whether Ine’s *wealh* clauses are a translation from Latin, borrowed from Frankish law or both, the upshot is that we don’t know what groups of people laws are referring to. We ought to be exceptionally careful before using them to infer the social conditions of seventh-century Wessex or to name particular ethnic group identities. 
 

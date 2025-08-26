@@ -4,7 +4,7 @@ Tags: Edgar, IV Edgar, translation, Old English, Latin
 Authors: Ingrid Ivarsen
 Summary: Translations of the Old English and Latin versions, both from Cambridge, Corpus Christi College MS 265.
 
-The original in the manuscript can be viewed [here](https://parker.stanford.edu/parker/catalog/nh277tk2537). Liebermann's *Die Gesetze der Angelsachsen* Volume I edits both versions on pp. 206–215 (MS C and Versio aus C). Translations are my own, of course.
+The original in the manuscript can be viewed [here](https://parker.stanford.edu/parker/catalog/nh277tk2537). Liebermann's *Die Gesetze der Angelsachsen* Volume I edits both versions on pp. 206–215 (MS C and Versio aus C). Translations are my own. I've marked some of the biggest differences in bold. See my other post on IV Edgar for some more context!
 
 |Old English version|Latin version      |
 |-------------------|-------------------|
@@ -45,7 +45,7 @@ The original in the manuscript can be viewed [here](https://parker.stanford.edu/
 |[16] And I will be a very gracious lord for as long as life accompanies me and I am very joyful to all you, because you are so zealous about the peace.|[16] Indeed, as long as life should be a companion I will remain faithful to you all. 
 **And now I entrust you all to the innermost parts of Christ, so that you may abound more and more in all goodness and knowledge and good works. Farewell in Christ!**|
  
-[^1]: I don't know what's going on here.
+
 
 
 

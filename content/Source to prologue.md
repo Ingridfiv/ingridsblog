@@ -1,6 +1,6 @@
 Title: A possible source used in the prologue to King Alfred's law-code
 Authors: Ingrid Ivarsen
-Tags: Alfred, sources, Isidore, Charlemagne, Asser
+Tags: Alfred, sources, Charlemagne, Asser
 Summary: Tracing the sources for an unexplained translation in the biblical prologue to Alfred's laws
 
 
