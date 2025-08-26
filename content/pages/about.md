@@ -1,4 +1,4 @@
-Title: The About Page
+Title: about
 
 # About this Site
 
