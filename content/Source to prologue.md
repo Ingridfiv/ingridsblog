@@ -6,8 +6,6 @@ Summary: Tracing the sources for an unexplained translation in the biblical prol
 
 This was originally submitted to <i>Notes & Queries</i>, but after something like 18 months of faff (not just on their end), I decided it wasn’t worth it for something so small. But maybe it’ll be useful to someone at some point. And it could be helpful as an overview of the early sources to the common motif of judges being influenced by fear, favour and greed in their judgements (though I could never quite get the structure of the article right and so it does present these sources in a slightly unintuitive way). Anyway!
 
-NB! Include something more on the thinking -- why the Exodus verse was unsuitable, what the prologue is trying to do -- refs to thesis
-
 
 <h3>A POSSIBLE SOURCE USED IN THE PROLOGUE TO KING ALFRED’S LAW-CODE</h3>
 
