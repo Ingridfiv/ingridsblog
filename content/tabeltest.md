@@ -2,7 +2,7 @@ Title: A test of tables
 Authors: Ross Duncan
 Tags: Test, test, tables
 Summary: Just a test
-
+Status: hidden
 
 OK. Let's make a simple table.
 

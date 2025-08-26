@@ -92,4 +92,3 @@ Of course, all early medieval sources are subject to doubt and the question is a
 Given that this is a particularly sensitive issue which touches on questions of the emergence of English ethnicity, identity and 'statehood' – an area that has both modern and historical relevance – responsible use of evidence is even more important. 
 
 
-##Libermann (GAS III:73) suggests that 'wealh' as used in 'horswealh' belongs to a period between the meanings of 'British' and 'slave'. 
