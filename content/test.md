@@ -3,6 +3,7 @@ Date: 2024-09-07
 Tags: test, pelican
 Authors: Ross Duncan
 Summary: This is a test
+Status: hidden
 
 This is a *cool* article.
 
