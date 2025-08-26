@@ -27,7 +27,7 @@ This means that we don't have access to Ine's laws other than as they were media
 
 Personally, I don't think that's the whole story. *Ine* may in fact be a ninth-century translation into Old English from a seventh-century Latin original.[^2] What's more, the original appears to be influenced by continental models from the sixth and seventh century, such as *Lex Salica* or *Excerpta de libris romanorum et francorum*. This means that what we can read on the manuscript page isn't necessarily what was written in Ine's reign (688–726). The implication is that the language reflects a ninth-century translators interpretation of seventh-century Anglo-Latin.
 
-Even people who disagree with this theory of mine must be more cautious – the text of Ine’s laws has been passed down to us in a way that should make anyone suspicious and it has so many *odd* oddities (not like your normal Anglo-Saxon oddities). Relying on words and phrases from *Ine* is therefore problematic (general sense less so). No case is better to illustrate the problems than that of ethnicity. 
+Even people who disagree with this theory of mine must be more cautious – the text of Ine’s laws has been passed down to us in a way that should make anyone suspicious and it has so many *odd* oddities (not like your normal oddities in Anglo-Saxon law). Relying on words and phrases from *Ine* is therefore problematic (general sense less so). No case is better to illustrate the problems than that of ethnicity. 
 
 [^2]: I. Ivarsen, ‘King Ine (688–726) and the Writing of English Law in Latin’, *English Historical Review* 137 (2022): 1–46; https://academic.oup.com/ehr/article/137/584/1/6530371
 
@@ -36,7 +36,7 @@ The evidence in question are the laws that mention a *wealh*, here to be underst
 [^3]: Much later, in the eleventh century, we are told that five hides of land is what it takes to make someone a thegn (a noble).
 [^4]: Ine 23.3, 24.2, 32, 33, 46.1, 54.2, 70, 74. See Grimmer 2007 pp. 104–5 for a more in-depth overview of these clauses.
 
-These laws have intrigued scholars. Who were these *wealas*, Britons? Were they British people drawn into the West Saxon sphere by territorial expansion or perhaps remnants of the Romano-British population in Wessex?[^5]
+These laws have intrigued scholars. Who were these *wealas* 'Britons'? Were they British people drawn into the West Saxon sphere by territorial expansion or perhaps remnants of the Romano-British population in Wessex?[^5]
 
 [^5]: ***Grimmer 2007 p. 110; Higham *English Empire* 239-40; Faull***
 
@@ -58,7 +58,7 @@ Such theories about Britons in *Ine* – and thus about Britons in early Wessex,
 [^10]: List all, see blue notebook
 [^11]: Weale et al. (2002)
 
-But these are grand structures built on shaky foundations. There are many issues with this evidence and scholars’ use of it. 
+But these are grand theories built on shaky foundations. There are many issues with this evidence and scholars’ use of it. 
 
 Firstly, as mentioned, *Ine* might be a ninth-century translation of a seventh-century Latin original. This theory means that *wealh/wilisc/wealas* and *englisc* were not the words used in the original – they are ninth-century word choices. The words used in the original – and more importantly, the referents, i.e. the groups those words referred to – are unknown and unknowable. 
 
@@ -81,7 +81,7 @@ The existence of these continental parllels hasn’t been entirely overlooked.[^
 
 Given the close connections between Frankish royals and ecclesiastics and the people involved in law-writing in Wessex in the seventh century, it is difficult to believe that these parallels – *romanus/francus* and *wealh/englisc* – are independent of each other.[^17] It may of course have been inspired or borrowed from Frankish law and still become actual West Saxon practice. But that would have to be argued, not assumed. It seems that Ine’s evidence has been so attractive that not enough critical attention has been paid to it. 
 
-And there is also the assumption which is so often involved in studies of Anglo-Saxon laws, especially the earliest ones, namely that the laws are native texts, part of an isolated national genre containing laws which are responding to or reflecting on-the-ground conditions (whether this means that laws were actually followed or not is a totally different question). But these early laws can and should be treated as textual genres open to infleunces from elsewhere.
+And there is also the assumption which is so often involved in studies of Anglo-Saxon laws, especially the earliest ones, namely that the laws are native texts, part of an isolated national genre containing laws which are responding to or reflecting on-the-ground conditions (whether this means that laws were actually followed or not is a different question). But these early laws can and should be treated as textual genres that were open to influences from elsewhere.
 
 [^17]: for these connections, see Ivarsen (2024)
 
@@ -91,3 +91,5 @@ Of course, all early medieval sources are subject to doubt and the question is a
 
 Given that this is a particularly sensitive issue which touches on questions of the emergence of English ethnicity, identity and 'statehood' – an area that has both modern and historical relevance – responsible use of evidence is even more important. 
 
+
+##Libermann (GAS III:73) suggests that 'wealh' as used in 'horswealh' belongs to a period between the meanings of 'British' and 'slave'. 
