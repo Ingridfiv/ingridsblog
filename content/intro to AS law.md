@@ -1,8 +1,8 @@
-Title: A short introduction to Anglo-Saxon law
+Title: A short introduction to Anglo-Saxon legislation
 Category: 
 Tags: 
 Authors: Ingrid Ivarsen
-Summary: This very brief overview is only intended as a basic introduction for those who don't know the period and its law-making. A lot of context is, of course, missing! 
+Summary: This very brief overview is only intended as a basic introduction to the law-texts produced in Anglo-Saxon England. I don't deal with the content and a lot of context is, of course, missing! 
 
 
 The standard edition of the laws, [Felix Liebermann's *Die Gesetze der Angelsachsen*](https://archive.org/details/diegesetzederang01liebuoft/mode/2up) (volume 1) has the original of all the laws. Modern English translations can be found in F.L. Attenborough's 1922 [*The Laws of Earliest English Kings*](https://archive.org/details/cu31924070153519) and in A.J. Robertson's 1925 [*The Laws of the Kings of England from Edmund to Henry I*](https://babel.hathitrust.org/cgi/pt?id=mdp.39015005171072&seq=5). More recent translations can be found in S. Jurasinski & L. Oliver, *The Laws of Alfred: The Domboc and the Making of Anglo-Saxon Law* (2021) and A. Rabin, *Old English Legal Writings: Wulfstan* (2020) and *The political writings of Archbishop Wulfstan of York* (2016). 
