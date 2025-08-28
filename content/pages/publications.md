@@ -13,3 +13,6 @@ Here are a list of my publications. They are all open access!
 
 
 * [‘Æthelstan, Wulfstan and a Revised History of Tithes in England’, Early Medieval Europe 29 (2021): 225–252.](https://doi.org/10.1111/emed.12473)
+
+
+There is also my PhD thesis, which can be downloaded [here](https://research-repository.st-andrews.ac.uk/handle/10023/20295).
