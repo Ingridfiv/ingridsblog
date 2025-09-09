@@ -1,17 +1,15 @@
 Title: What can we learn from the strangest Anglo-Saxon law-texts? 
 Category: article
-Tags: 
+Tags: æthelred, alfred, latin, quadripartitus, 
 Authors: Ingrid Ivarsen
 Summary: There are some Anglo-Saxon law-texts that are rarely used as evidence – and for good reason. We know nothing about their circumstances or date and they usually only survive in single copies. But these texts are worth looking at, because they show us a different kind of legislation from royal law. This is a brief introduction to some such texts.
 Status: draft
-
 
 Anglo-Saxon law has a lot to offer. The grandiose laws of Alfred – with their translation of biblical law – give us room for endless commentary about kings, God and politics in the ninth century. The homiletic laws penned by Archbishop Wulfstan for Kings Æthelred and Cnut shows us a period in which law and good order was seen as closely connected to society's fortunes in the face of viking attacks. And all law texts – from Æthelberht’s in the seventh century to Cnut’s in the eleventh – reveal rules, legal principles and procedures as well as aspects of daily life in England. They are used actively and enthusiastically by all scholars of the early Middle Ages in England. 
 
 Some texts are, however, harder to make sense of than others. We know so little about them – when they were made, what the originals looked like, why they were composed and by whom – that using them as evidence is almost impossible. Those that can be dated are shrouded in mystery in other ways (IV Edgar in Latin); and those with a seemingly more obvious purpose (II Atr App) can’t be dated or reconstructed into their original form. Some of these texts have been unlucky in their editorial names – Alfred-Guthrum Appendix, II Æthelred Appendix – dating to the nineteenth century. And others have been relegated to marginal positions in their editions (IV Edgar Latin). They are, however, useful texts, because they show us what was possible but rarely done when writing law-texts, and they show us legal minds at work. They reveal the blurry edges of the genre of the Anglo-Saxon legislative traditions.
 
-
-The ‘Appendices’ Texts
+**The ‘Appendices’ Texts**
 
 Two texts have long fascinated me, though we know little about them: 'Alfred-Guthrum Appendix' and 'II Æthelred Appendix'. Perhaps Liebermann’s [Schmidt’s?] uninspiring names have kept scholars away.[^1] In fact, 'Alfred-Guthrum Appendix' is perhaps the gravest example of a mismatch between an editorial name and the actual status of a text, because it is not an appendix nor originally associated with Alfred or Guthrum or their joint treaty. 
 
