@@ -2,6 +2,7 @@ Title: Another Test
 Authors: Pretend Ingrid
 Tags: pretend, test
 Summary: Another test, with more text.
+Status: hidden
 
 This article is going to be very repetitive[^foot].
 [^foot]: This is a footnote
