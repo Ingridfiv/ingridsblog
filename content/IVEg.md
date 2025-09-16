@@ -1,6 +1,6 @@
 Title: The strange case of IV Edgar
 Authors: Ingrid Ivarsen
-Tags: Edgar, IV Edgar, transation, Wulfstan
+Tags: Edgar, IV Edgar, translation, Wulfstan
 Summary: IV Edgar is an odd text in many ways, not least because it exists in a mysterious Latin version. What are the origins of this tenth-century decree?
 
 King Edgar the Peaceful (r. 959–973) is well-known to most historians of early medieval Anglo-Saxon history. Not just for his role in the monastic reforms, patronage of the most powerful churchmen of the time or the glorious illustration of him from his [charter to New Minster](https://blogs.bl.uk/digitisedmanuscripts/2011/06/the-new-minster-charter.html), but also for his laws. The most famous piece of legislation issued in his name is known as – in the clunky vocab of Anglo-Saxon legal historians – II-III Edgar.[^1] This law-code is praised for being systematic, detailed and structured. These might sound like qualities all law-texts should have, but it’s rare in the Anglo-Saxon corpus. 
