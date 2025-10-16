@@ -3,7 +3,7 @@ Category: blog
 Tags: Liebermann, Anglo-Saxon law, historiography
 Authors: Ingrid Ivarsen
 Summary: Who is Felix Liebermann and how did his library end up in Tokyo?
-Status: draft
+Status: published
 
 
 
