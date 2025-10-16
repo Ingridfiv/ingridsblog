@@ -1,0 +1,54 @@
+Title: Felix Liebermann's library in Tokyo, Part I
+Category: blog
+Tags: Liebermann, Anglo-Saxon law, historiography
+Authors: Ingrid Ivarsen
+Summary: Who is Felix Liebermann and how did his library end up in Tokyo?
+Status: draft
+
+
+
+Felix Liebermann (1851–1925) is known mostly for his enourmous edition of the Anglo-Saxon and Anglo-Norman laws. *Der Gesetze der Angelsachsen* came out in three volumes between 1903 and 1916. Volume 1 prints almost every manuscript version of each text texts, as well as a German translation, and Volumes 2 & 3 include commentary to each text and explanations of words and concepts. It has all the information anyone might want (albeit in heavily abbreviated and difficult German).
+
+Liebermann is the last editor (for now) who attempted anything like this, i.e. editing all the Anglo-Saxon laws in one volume, a tradition which started with William Lambarde in the 1560s and was continued by Whelock in the 17th century, Wilkins in the 18th century and Schmid and Thorpe in the 19th century. Many texts exist in more recent editions (e.g. the early Kentish laws, the code of Alfred, Wulfstan's laws for Æthelred and Cnut). But nothing quite rivals the convenience of having all texts printed from essentially every manuscript, like you get in *Gesetze*. Liebermann, therefore, is still our go-to for editions of the laws, despite some of the flaws of his edition. (Personally, I have to admit that I check modern editions after Liebermann. And I'm perhaps more likely to check the manuscripts before I check the modern editions.) 
+
+Liebermann's career has been covered in before,[1^] but the short summary is that he was a historian from a wealthy Jewish family in Berlin, so wealthy, in fact, that he never needed to work a paid position at a university to continue his research (though he had honorary positions at many). He was a historian of England but not, initially, of Anglo-Saxon England. He did not have a degree in law, but started editing Anglo-Norman legal sources early in his career. He worked for the Monumenta Germaniae Historica, where he edited English sources alongside Reinhold Pauli and Georg Waitz. This led him to be commissioned to do an edition of the Anglo-Saxon laws, a project which took him almost 30 years. In addition to *Gesetze*, he published on everything from Anglo-Saxon material to Elizabethan. The vast majority of his publications are editions or source studies, but he also wrote many reviews, notes and articles of other kinds. However, he didn't write any analytic histories of English law, though he facilitated access to the primary source material needed to do so. There is a lot more to say about Liebermann's life – for instance his philanthropic work, his intellectual context and his war-time experience – which I will do in future posts.
+
+[1^]: See e.g. A. Rabin, 'Felix Liebermann and Die Gesetze der Angelsachsen', in Jurasinksi, Oliver & Rabin (eds), *English Law Before Magna Carta: Felix Liebermann and *Die Gesetze der Angelsachsen Law (2010)
+
+For now, let's focus on Liebermann's library and how it ended up in Tokyo, of all places. This collection of roughly 5000 items was sold after Liebermann's death in 1925 and has been in Tokyo since 1927 or 1928. The details are unclear, since no records regarding this sale seem to have survived in Japan or Germany.[2^] What we do know is that it was bought by the Japanese Department of Finance using funds from the the Dawes plan, a new scheme for German reparations set up in 1924. A catalogue drawn up by the University Library at the University of Tokyo in 1927 states that Liebermann's library was bought in the fourth year of the plan (September 1927–August 1928). The first three annual payments had been used by Japan to get goods from Germany (e.g. cars), but in 1926 the Department of Finance decided to accept requests that had come in from universities for books.[3^] Liebermann's library was one of these. Other collections bought at the same time include those of Albert Osterrieth, Julius Hatchek, Andreas von Thur, Friedrich Thaner and Hugo Preuss (all of whom, except Thaner, died in 1925 or 1926).[4^]
+
+ ![an example of the Department of Finance stamp]({static}/images/finminstamp.png)
+*All the reparations books carry a stamp from the Department of Finance ( 大蔵省賠償金特別会計所属図書 “Books Pertaining to Department of Finance Special Account for Reparations”).*
+
+[2^]: See Hideyuki Arimits, 'The Liebermann Library in Tokyo' in Jurasinski, Oliver & Rabin (eds), *English Law Before Magna Carta: Felix Liebermann and* Die Gesetze der Angelsachsen Law (2010), who first drew attention to the existence of the library in Tokyo. He had not found any records in Japan at the time of writing that article. I have looked through (using trusted Google Lense) the Japanese digitised materials relating to the Dawes Plan purchases that year, which include records for the other collections, but not Liebermann's. See the link in footnote 5. Marina Sandig, who has written a recent mini-biography of Liebermann, looked for records in Germany and the German embassy in Tokyo and found none (see Sandig, *Felix Liebermann: Mittelalterhistoriker –Gelehrter – Mäzen* (2024), pp. 57–8). The best we could hope for is perhaps to find the book catalogue/auction catalogue, which would presumably have been drawn up before a sale. 
+
+[3^]:For this and references to Japanese records, I have relied on this https://u-parl.lib.u-tokyo.ac.jp/english/column87 
+
+[4^]: This useful database (also a book) has a list of all named collections in Japanese libraries https://tksosa.dijtokyo.org/
+
+From surviving records from the Department of Finance, we see that some collections were specifically requested by academics in Japan, but also that Japanese officials received catalogues from Germany, which they used to order books.[5^] The Japanese embassy or other intermediaries seem to have covered the actual purchasing and shipments back to Japan. So presumably Liebermann's library was put up for auction by his wife and bought by intermediaries in Germany.[6^] 
+
+[5^]: These are available [here](https://www.jacar.archives.go.jp/aj/meta/listPhoto?LANG=default&REFCODE=B04013921700&BID=F2006092116133705040&ID=&NO=1&TYPE=PDF&DL_TYPE=pdf). 
+[6^]: The 1937 catalogue states that it was bought for 45,000 Marks, which online calculators suggest might be around 200,000 Euros today.
+
+There are two relevant bits of context that also explain why Liebermann's library ended up in Tokyo. First is the destruction of the library of the University of Tokyo in the Great Kanto Earthquake of 1923. The earthquake's destruction meant that the library was in need of new books. Many were gifted to the university from nations, libraries, universities and individuals across the world and other books were bought using the library restoration fund. So presumably, the choice to spend war reparations money on book collections was partly a way to reconstruct the library again. None of the Dawes plan collections were kept intact as collections – the books were spread out across the normal holdings (as they still are today) – so presumably the individual books were the crucial thing.
+
+The second bit of relevant context are the decades-long ties between German and Japanese scholars. Starting in the late ninteenth century (but taking off after World War One), Japanese scholars and students made their way to Germany to study, especially medicine and law. In the late nineteenth century, foreign scholars were invited to work at Japanese universities, many of whom were German (including Ludwig Riess, a friend and colleague of Liebermann's). In Japan, universities taught German and many German academic books were translated into Japanese. These ties survived the war. For example, Mitsubishi opened offices in Berlin in 1921, there was a Japan Fund to support German scholars in financial hardship and Japanese exchange students still chose Germany over other countries. In 1926 and 1927, Japanese-German cultural research centres were opened in respectively Berlin and Tokyo.[7^] 
+
+
+These connections make themselves clear in the number of German scholarly collections in Japanese universities, which include many more than the ones bought with reparations money after the war. These include the libraries of Otto von Gierke (lawyer, legal historian), Otto Hirschfeld (ancient historian), Ernst Zitelmann (lawyer), Friedrich Stein (lawyer) and Christian L.E. Engel (statistician), to name a few.[8^] Some of these were bought before the First World War, but most of them after, perhaps because German inflation made it cheaper. 
+
+
+[7^]: All the above is from K. Tetsuro, 'Personal contacts in Japanese-German cultural relations in the 1920s and early 1930s' in Spang & Wippich (eds), Japanese-German relations, 1895-1945: war, diplomacy and public opinion (2006), pp. 119-38.
+[8^]: https://tksosa.dijtokyo.org/
+
+
+
+
+
+
+
+
+
+
+ 
