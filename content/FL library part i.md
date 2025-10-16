@@ -3,7 +3,7 @@ Category: blog
 Tags: Liebermann, Anglo-Saxon law, historiography
 Authors: Ingrid Ivarsen
 Summary: Who is Felix Liebermann and how did his library end up in Tokyo?
-Status: draft
+Status: published 
 
 
 
@@ -41,8 +41,11 @@ The second bit of relevant context are the decades-long ties between German and 
 [^7]: All the above is from K. Tetsuro, 'Personal contacts in Japanese-German cultural relations in the 1920s and early 1930s' in Spang & Wippich (eds), Japanese-German relations, 1895-1945: war, diplomacy and public opinion (2006), pp. 119-38.
 [8^]: https://tksosa.dijtokyo.org/
 
-These connections also make themselves clear in the number of German scholarly collections in Japanese universities, which include many more than the ones bought with reparations money after the war. These include the libraries of Otto von Gierke (lawyer, legal historian), Otto Hirschfeld (ancient historian), Ernst Zitelmann (lawyer), Friedrich Stein (lawyer) and Christian L.E. Engel (statistician), to name some. (Though much more recent, medievalist might be interested to know that, apparently, some 1500 books from J.W. Wallace-Hadrill's library are also [here](https://tksosa.dijtokyo.org/?page=collection_detail.php&p_id=269)!)
+These connections also make themselves clear in the number of German scholarly collections in Japanese universities, which include many more than the ones bought with reparations money after the war. These include the libraries of Otto von Gierke (lawyer, legal historian), Otto Hirschfeld (ancient historian), Ernst Zitelmann (lawyer), Friedrich Stein (lawyer) and Christian L.E. Engel (statistician), to name some.[^8] 
 
+ [^8]: Though much more recent, medievalist might be interested to know that some 1500 books from J.W. Wallace-Hadrill's library are also [here](https://tksosa.dijtokyo.org/?page=collection_detail.php&p_id=269)!
+
+As this suggests, a lot of the collections that ended up in Japan were of law and legal history books. So presumably this interest accounts for why Liebermann was chosen too. His library is certainly well-stocked on the historical and literary front, but it inclueds a lot of law and legal history material, both medieval and modern. I will post more soon about the content of Liebermann's library!
 
 
 
