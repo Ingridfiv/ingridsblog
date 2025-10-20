@@ -1,5 +1,6 @@
 Title: A short introduction to Anglo-Saxon legislation
-Category: 
+Date: 2025-09-16
+Category: article
 Tags: background
 Authors: Ingrid Ivarsen
 Summary: This very brief overview is only intended as a basic introduction to the law-texts produced in Anglo-Saxon England. I don't deal with the content and a lot of context is, of course, missing! 

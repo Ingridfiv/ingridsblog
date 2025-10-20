@@ -1,4 +1,5 @@
 Title: A possible source used in the prologue to King Alfred's law-code
+Date: 2025-08-26
 Authors: Ingrid Ivarsen
 Tags: Alfred, sources, Charlemagne, Asser
 Summary: Tracing the sources for an unexplained translation in the biblical prologue to Alfred's laws

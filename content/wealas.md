@@ -1,4 +1,5 @@
 Title: The problems with 'Welsh' and 'English' in Ine's laws
+Date: 2025-09-16
 Authors: Ingrid Ivarsen
 Tags: Ine, Lex Salica, Alfred, translation, Latin
 Summary: Historians and others have made extensive use of the ethnic labels found in Ine's laws. But what are they actually evidence of?

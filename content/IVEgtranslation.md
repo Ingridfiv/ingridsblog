@@ -1,4 +1,5 @@
 Title: Translation of IV Edgar
+Date: 2025-09-16
 Category: Translations
 Tags: Edgar, IV Edgar, translation, Latin
 Authors: Ingrid Ivarsen

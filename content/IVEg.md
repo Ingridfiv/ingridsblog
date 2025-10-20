@@ -1,4 +1,5 @@
 Title: The strange case of IV Edgar
+Date: 2025-09-16
 Authors: Ingrid Ivarsen
 Tags: Edgar, IV Edgar, translation, Wulfstan
 Summary: IV Edgar is an odd text in many ways, not least because it exists in a mysterious Latin version. What are the origins of this tenth-century decree?

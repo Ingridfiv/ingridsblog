@@ -1,4 +1,5 @@
 Title: Felix Liebermann's library in Tokyo, Part I
+Date: 2025-10-16
 Category: blog
 Tags: Liebermann, Anglo-Saxon law, historiography
 Authors: Ingrid Ivarsen
