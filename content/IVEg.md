@@ -1,16 +1,20 @@
 Title: The strange case of IV Edgar
 Date: 2025-09-16
+Category: blog
 Authors: Ingrid Ivarsen
 Tags: Edgar, IV Edgar, translation, Wulfstan
 Summary: IV Edgar is an odd text in many ways, not least because it exists in a mysterious Latin version. What are the origins of this tenth-century decree?
 
-King Edgar the Peaceful (r. 959–973) is well-known to most historians of early medieval Anglo-Saxon history. Not just for his role in the monastic reforms, patronage of the most powerful churchmen of the time or the glorious illustration of him from his [charter to New Minster](https://blogs.bl.uk/digitisedmanuscripts/2011/06/the-new-minster-charter.html), but also for his laws. The most famous piece of legislation issued in his name is known as – in the clunky vocab of Anglo-Saxon legal historians – II-III Edgar.[^1] This law-code is praised for being systematic, detailed and structured. These might sound like qualities all law-texts should have, but it’s rare in the Anglo-Saxon corpus. 
+King Edgar the Peaceful (r. 959–973) is well-known to most historians of early medieval Anglo-Saxon history. Not just for his role in the monastic reforms, patronage of the most powerful churchmen of the time or the glorious illustration of him from his [charter to New Minster](https://en.wikipedia.org/wiki/New_Minster_Charter#/media/File:Edgar_from_Winchester_Charter.jpg), but also for his laws. The most famous piece of legislation issued in his name is known as – in the clunky vocab of Anglo-Saxon legal historians – II-III Edgar.[^1] This law-code is praised for being systematic, detailed and structured. These might sound like qualities all law-texts should have, but it’s rare in the Anglo-Saxon corpus. 
 
 [^1]: There is no I Edgar -- the decree which used to go by this name is no longer thought to have been written by Edgar and is now usually called 'The Hundred Ordinance'.
 
 Personally, though, I have no particular interest in logically laid-out legislation that tells you the legal details you want to know. I prefer a textual puzzle, a text behind which there is clearly a hidden story of transmission, composition, survival or emendation.
 
 Thankfully, Edgar has provided us with this as well! IV Edgar, or the Wihtbordesstan decree, is nothing like his earlier laws. In fact, it's different from all other surviving Anglo-Saxon legislation in several ways. For instance, it opens with a line which is otherwise only found in charters: ‘Her is geswutelod on þisum gewrite..’ (‘It is declared here in this document…’). In one extant manuscript this line is even preceded by a cross, another feature of charters and writs. 
+
+ ![the opening of IV Eg in F]({static}/images/openingiveg.png)
+*The opening of IV Eg (OE) in Cotton Nero E.i.*
 
 The main text of IV Edgar is also unusual, in that it opens with a long discursive section – almost a sermon, as you can see in translation [here](https://ingridfiv.github.io/ingridsblog/translation-of-iv-edgar.html). Here the king tries to show how important it is to pay your church taxes by comparing God to a landlord who hasn’t received his rent after several reminders. You wouldn’t be surprised if he got angry, would you? Same with God, whose representatives on earth have constantly reminded people that they need to give God his dues. 
 
