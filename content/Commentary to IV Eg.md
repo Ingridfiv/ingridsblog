@@ -1,12 +1,12 @@
 Title: Commentary to IV Edgar Latin
-Date: 2015-10-21
+Date: 2015-11-10
 Category: blog
 Tags: edgar, latin, translation
 Authors: Ingrid Ivarsen
 Summary: Commentary on the differences between the Old English and Latin versions of IV Edgar. 
-Status: draft
+Status: published
 
-Before you start, see [here](https://ingridfiv.github.io/ingridsblog/the-strange-case-of-iv-edgar.html) for my introduction to IV Edgar and [here](https://ingridfiv.github.io/ingridsblog/translation-of-iv-edgar.html) for a translation of the Old English and Latin versions. There are lots of differences (many of which are marked in bold in the translation), but here I will just mention  the ones that have stood out to me for one reason or another or may be significant.
+Before you start, see [here](https://ingridfiv.github.io/ingridsblog/the-strange-case-of-iv-edgar.html) for an introduction to IV Edgar and [here](https://ingridfiv.github.io/ingridsblog/translation-of-iv-edgar.html) for a translation of the Old English and Latin versions. There are lots of differences (most of which are marked in bold in the translation), but here I will just mention  the ones that have stood out to me for one reason or another. In the commentary below I work on the assumption that the Old English was the original text and the Latin version a translation. Though it is of course possible that it was the other way around!
 
 ------------------------------
 
@@ -30,9 +30,9 @@ The same is seen at IV Eg 1.7:
 >Sancteque ecclesie cultores per quorum manus transeundum est quod Domino uniuersorum pro nostrarum salute animarum damus, inreprehensibiliter casteque et sancte uiuant, sicut decet Dei ministros quatinus sua sanctitate pro nobis apud Altissimum mereantur fieri intercessores. 
 >And let the ministers of the holy church, into whose hands we pass what we give to the Lord of universes for the salvation of our souls, live irreproachably, chastely and holily, just as befits God’s servants, so that they by their sanctity earn to be intercessors for us in relation to the Highest one.
 
-The same pompous wordy-ness is also seen in the addition in the Latin which reads 'And lest the agreement of this council should ever be hidden and destroyed by oblivion by the machinations of depraved people, let it be confirmed and strengthened' where the Old English simply says 'and one should write many documents about this' (IV Eg 15.1).
+The same pompous wordy-ness is also seen in the addition in the Latin which reads 'and lest the agreement of this council should ever be hidden and destroyed by oblivion by the machinations of depraved people, let it be confirmed and strengthened' where the Old English simply says 'and one should write many documents about this' (IV Eg 15.1).
 
-The tone of the Latin is certainly more homiletic than the Old English. Of the more overtly ecclesiastical additions is the quotation from the Bible (Psalms 7:17) added to the Latin in a passage on cattle theft and trade (one of several differences in this passage, IV Eg 11):
+The tone of the Latin is not just more flowery but also more homiletic than the Old English. Of the more overtly ecclesiastical additions is a quotation from the Bible (Psalms 7:17) added to the Latin in a passage on cattle theft and trade (one of several differences in this passage, IV Eg 11):
 
 >Gif he þonne cynne þæt he hit mid gewitnysse bohte 7 þæt leas bið, sy he þeof 7 þolige heafdes 7 ealles þæs þe he age.
 >If he then declares that he bought it with witness and that is untrue, he is a thief and he is to forfeit his head and everything that he owns.
@@ -40,9 +40,9 @@ The tone of the Latin is certainly more homiletic than the Old English. Of the m
 >At si demum necessitate compulsus, aliquem supra dictorum testificatur idque fore falsum reperitur adque dinoscitur mortis reus affectus sine dilatione capitali sententia puniatur et in uerticem ipsius iniquitas eius conuertatur.
 >But if finally, having been compelled by necessity, he testifies any of the abovesaid, and it is discovered and becomes known to be false, and deadly guilt has been caused, he shall be punished by the death penalty without delay and “his iniquity shall be turned on his crown”.
 
-The Latin also adds a farewell at the end, which is distinctly more homiletic than legal (though similar things are seen in some versions of Wulfstan's laws for Æthelred and Cnut). 
+The Latin also adds a farewell at the end which is more homiletic than legal (though similar things are seen in some versions of Wulfstan's laws for Æthelred and Cnut). 
 
-Some  minor additions include the insertion of a reference to the Holy Trinity in IV Eg Lat 2 ('In the name of the holy and indivisible Trinity, controlling the entire world') and the description of Edgar as 'inclitus' in IV Eg Lat Prol. 
+Some  minor additions include the insertion of a reference to the Holy Trinity in IV Eg Lat 2 ('In the name of the holy and indivisible Trinity, controlling the entire world').
 
 There are also additions that aren't particularly ecclesiastical or homiletic and feel rather pointless, such as where 'living animal' (IV Eg 8) is expanded to 'a living animal, cow or lamb or any other kind' or when 'except that one thing which he saw or heard' (IV Eg 6.1) gets turned into 'anything other than what he heard with his ears or saw with his eyes' (IV Eg Lat 6.1). There are many more such small changes which have little impact on the meaning of the text. This is reminiscent of Wulfstan's rewriting and translation methods, where expansion sometimes seem to take place for the sake of it. 
 
@@ -60,7 +60,7 @@ A similar change occurs where the Old English reads ‘me to fullum cynescipe’
 
 [^1]: As pointed out by D. Whitelock, *English Historical Documents, Volume I*, p. 439, fn 3. 
 
-Similar changes of person are found elsewhere. Either references to the king’s advisors are removed (IV Eg Lat 1.4, 2.1a, 14) or the king speaking in the first person is changed to an impersonal third person verb (1.5, 1.8, 14.1). The king is still present in the Latin version, he just receives less overall attention than in the Old English (see e.g. IV Eg Lat 2, 2a, 14.1, 1.5, 1.8, 2.1a). However, in 2.1/2.1a, the Latin draws more attention to king, by saying that ‘that which our kingly excellence confirmed with a general council’ as opposed to ‘I and my witan have...'. 
+Similar changes of person are found elsewhere. Either references to the king’s advisors are removed (IV Eg Lat 1.4, 2.1a, 14) or the king speaking in the first person is changed to an impersonal third person verb (1.5, 1.8, 14.1). The king is still present in the Latin version, he just receives less overall attention than in the Old English (see e.g. IV Eg Lat 2, 2a, 14.1, 1.5, 1.8, 2.1a). However, in 2.1/2.1a, the Latin draws more attention to king, by saying that ‘that which our kingly excellence confirmed with a general council’ as opposed to ‘I and my witan have added to the laws...'. 
 
 
 **OMISSIONS**
@@ -80,8 +80,7 @@ Other potentially significant changes include the addition of the phrase 'usus n
 
 [^3]: see R. Sharpe, 'Official and Unofficial Latin Words in 11th- and 12th-Century England', in Ashdowne and White (eds), *Latin in Medieval Britain* (2017), pp. 257–8. 
 
-
-Bruce O'Brien's overall assessment was that the translator introduced ambiguity and a lack of precision.[^4] He might have been thinking of passages such as IV Eg 1.5, where the Old English says that reeves will lose the king’s friendship and forfeit their posessions if they don’t punish non-payers of tithes – and  Latin says that all great men should devote themselves with fierce severity to subdue those who endeavour to violate this agreement. OR the reference in the Old English to ‘the servants of God who receive those dues [sceattas] we give to God’, which is made pretty unclear in the Latin as ‘ministers...into whose hands we pass what we give to the Lord of universes’ (IV Eg 1.7). Felix Liebermann was even harsher in his judgment, saying that the translator added false information and pompous embellishment.[^5]
+Bruce O'Brien's overall assessment was that the translator introduced ambiguity and a lack of precision.[^4] He might have been thinking of passages such as IV Eg 1.5, where the Old English says that reeves will lose the king’s friendship and forfeit their posessions if they don’t punish non-payers of tithes – and  Latin says that all great men should devote themselves with fierce severity to subdue those who endeavour to violate this agreement. Another example is the passage which reads in Old English ‘the servants of God who receive those dues [sceattas] we give to God’ and which is made pretty unclear in the Latin as ‘ministers...into whose hands we pass what we give to the Lord of universes’ (IV Eg 1.7). Felix Liebermann was even harsher in his judgment, saying that the translator added false information and pompous embellishment.[^5]
 
 
 [^4]: B. O'Brien, 'Translating Technical Terms in Law-Codes from Alfred to the Angevins', in Tyler (ed.), Conceptualizing Multilingualism in England, 800–1250 (2011), p. 68 fn. 35
