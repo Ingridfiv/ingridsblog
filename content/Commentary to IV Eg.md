@@ -17,17 +17,21 @@ The most noticeable difference is the wordy and flowery expansion of the text in
 Compare the following in Old English and Latin (IV Eg 1.2):
 
 >wen is þæt þæs hlafordes grama to ðan swiðe weaxe, þæt he him ne unne naðer ne æhta ne lifes.
+
 >it is to be expected that the anger of the lord should grow so much that he would not allow him neither possessions or life.
 
 >credendum procol dubio flammam indignationis domini adversus huiusmodi hominem in tantum accendi debere, ut nec illum aliqua possessione nec etiam vita dignium existimet esse.
+
 >[it is] undoubtedly to be believed that the flame of the lord’s indignation against such men is rightly kindled to such a degree that he is considered to be unworthy of any possessions or even life.
 
 The same is seen at IV Eg 1.7:
 
 >7 þa Godes þeowas, þe þa sceattas underfoð þe we Gode syllað, libban clænan life, þæt hy þurh þa clænnysse us to Gode þingian mægen.
+
 >And those servants of God, who receive those taxes that we give to God, should live a pure life, so that they are able to intercede for us to God through that purity.
 
 >Sancteque ecclesie cultores per quorum manus transeundum est quod Domino uniuersorum pro nostrarum salute animarum damus, inreprehensibiliter casteque et sancte uiuant, sicut decet Dei ministros quatinus sua sanctitate pro nobis apud Altissimum mereantur fieri intercessores. 
+
 >And let the ministers of the holy church, into whose hands we pass what we give to the Lord of universes for the salvation of our souls, live irreproachably, chastely and holily, just as befits God’s servants, so that they by their sanctity earn to be intercessors for us in relation to the Highest one.
 
 The same pompous wordy-ness is also seen in the addition in the Latin which reads 'and lest the agreement of this council should ever be hidden and destroyed by oblivion by the machinations of depraved people, let it be confirmed and strengthened' where the Old English simply says 'and one should write many documents about this' (IV Eg 15.1).
@@ -35,9 +39,11 @@ The same pompous wordy-ness is also seen in the addition in the Latin which read
 The tone of the Latin is not just more flowery but also more homiletic than the Old English. Of the more overtly ecclesiastical additions is a quotation from the Bible (Psalms 7:17) added to the Latin in a passage on cattle theft and trade (one of several differences in this passage, IV Eg 11):
 
 >Gif he þonne cynne þæt he hit mid gewitnysse bohte 7 þæt leas bið, sy he þeof 7 þolige heafdes 7 ealles þæs þe he age.
+
 >If he then declares that he bought it with witness and that is untrue, he is a thief and he is to forfeit his head and everything that he owns.
 
 >At si demum necessitate compulsus, aliquem supra dictorum testificatur idque fore falsum reperitur adque dinoscitur mortis reus affectus sine dilatione capitali sententia puniatur et in uerticem ipsius iniquitas eius conuertatur.
+
 >But if finally, having been compelled by necessity, he testifies any of the abovesaid, and it is discovered and becomes known to be false, and deadly guilt has been caused, he shall be punished by the death penalty without delay and “his iniquity shall be turned on his crown”.
 
 The Latin also adds a farewell at the end which is more homiletic than legal (though similar things are seen in some versions of Wulfstan's laws for Æthelred and Cnut). 
@@ -51,9 +57,11 @@ There are also additions that aren't particularly ecclesiastical or homiletic an
 Other changes are more significant for the meaning of the text, such as the following change in focus from the king to God (IV Eg 14.1–2):
 
 >Þonne wille ic þæt symble mid eow gehealden sy þæt ge to friþes bote gecoren hæfdon mid miclum wisdome 7 me swyðe gecwemlice. 7 þes eaca sy us eallum gemæne, þe on þissum iglandum wuniað.
+
 >Then I wish that those things which you have chosen for the betterment of peace, with great wisdom and which are very pleasing to me, should be kept among you forever. And this addition is common to all of us who live on this island.
 
 >Placet etiam ut hoc pactum inconcussum et inviolabile in reliquum tempus conservetur ad pacis abundantiam Deoque, omnium saluatori, ad laudem et magnificentiam et nobis omnibus in hac terrena peregrinatione degentibus ad vite longinquitatem nostrorumque peccaminum abolitionem et remissionem.
+
 > It is also pleasing that this agreement should be kept unchallenged and uninfringed in the future, for the abundance of peace and for praise and glory to God, saviour of all, and for great length of life for all of us spending time on this earthly journey and for the abolition and remission of our sins.
 
 A similar change occurs where the Old English reads ‘me to fullum cynescipe’ ‘for my full royal dignity’, which the Latin renders as ‘ad immense maiestatis gloriam et honorem’ ‘for the glory and honour of the immense majesty’, seemingly a reference to God rather than the king (IV Eg Lat 2). In the following clause, IV Eg 2a, the Latin removes the phrase ‘I shall have the rights of my kingship’ and puts nothing equivalent in its place. At IV Eg 1.8, the Latin removes a reference to lay interference, so that the Old English 'I and my thegns should compel our priests [not to disobey bishops]' becomes in Latin ‘let these people [ministers of the church] listen diligently...to...bishops’.[^1]  
