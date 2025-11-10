@@ -1,5 +1,5 @@
 Title: Commentary to IV Edgar Latin
-Date: 2015-11-10
+Date: 2025-11-10
 Category: blog
 Tags: edgar, latin, translation
 Authors: Ingrid Ivarsen
