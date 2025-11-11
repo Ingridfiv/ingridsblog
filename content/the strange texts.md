@@ -1,21 +1,26 @@
-Title: What can we learn from the strangest Anglo-Saxon law-texts? 
+Title: What can we learn from the strangest Anglo-Saxon law-texts? Part I: The Appendices Texts
 Category: article
 Tags: æthelred, alfred, latin, quadripartitus, 
 Authors: Ingrid Ivarsen
 Summary: There are some Anglo-Saxon law-texts that are rarely used as evidence – and for good reason. We know nothing about their circumstances or date and they usually only survive in single copies. But these texts are worth looking at, because they show us a different kind of legislation from royal law. This is a brief introduction to some such texts.
 Status: draft
 
-Anglo-Saxon law has a lot to offer. The grandiose laws of Alfred – with their translation of biblical law – give us room for endless commentary about kings, God and politics in the ninth century. The homiletic laws penned by Archbishop Wulfstan for Kings Æthelred and Cnut shows us a period in which law and good order was seen as closely connected to society's fortunes in the face of viking attacks. And all law texts – from Æthelberht’s in the seventh century to Cnut’s in the eleventh – reveal rules, legal principles and procedures as well as aspects of daily life in England. They are used actively and enthusiastically by all scholars of the early Middle Ages in England. 
+Anglo-Saxon law has a lot to offer. The grandiose laws of Alfred – with their translation of biblical law – give us room for endless commentary about kings, God and politics in the ninth century. The homiletic laws penned by Archbishop Wulfstan for Kings Æthelred and Cnut show us a period in which law and good order was seen as closely connected to society's fortunes in the face of viking attacks. And all law texts – from Æthelberht’s in the seventh century to Cnut’s in the eleventh – reveal rules, legal principles and procedures as well as aspects of daily life in England. They are used actively and enthusiastically by all scholars of the early Middle Ages in England. 
 
-Some texts are, however, harder to make sense of than others. We know so little about them – when they were made, what the originals looked like, why they were composed and by whom – that using them as evidence is almost impossible. Those that can be dated are shrouded in mystery in other ways (IV Edgar in Latin); and those with a seemingly more obvious purpose (II Atr App) can’t be dated or reconstructed into their original form. Some of these texts have been unlucky in their editorial names – Alfred-Guthrum Appendix, II Æthelred Appendix – dating to the nineteenth century. And others have been relegated to marginal positions in their editions (IV Edgar Latin). They are, however, useful texts, because they show us what was possible but rarely done when writing law-texts, and they show us legal minds at work. They reveal the blurry edges of the genre of the Anglo-Saxon legislative traditions.
+Some texts are, however, harder to make sense of than others. We know so little about them – when they were made, what the originals looked like, why they were composed and by whom – that using them as evidence is almost impossible. Those that can be dated are shrouded in mystery in other ways (IV Edgar in Latin); and those with a seemingly more obvious purpose (II Atr App) can’t be dated or reconstructed into their original form. Some of these texts have been unlucky in their editorial names – Alfred-Guthrum Appendix, II Æthelred Appendix – which they were given during the nineteenth century. And others have been relegated to marginal positions in their editions (IV Edgar Latin) or overlooked by translators. They are, however, useful texts. They show us what was possible but rarely done when writing law-texts, they show us legal minds at work and they reveal the blurry edges of the genre of the Anglo-Saxon law.
 
 **The ‘Appendices’ Texts**
 
-Two texts have long fascinated me, though we know little about them: 'Alfred-Guthrum Appendix' and 'II Æthelred Appendix'. Perhaps Liebermann’s [Schmidt’s?] uninspiring names have kept scholars away.[^1] In fact, 'Alfred-Guthrum Appendix' is perhaps the gravest example of a mismatch between an editorial name and the actual status of a text, because it is not an appendix nor originally associated with Alfred or Guthrum or their joint treaty. 
+Two texts have fascinated me, though we know little about them: 'Alfred-Guthrum Appendix' and 'II Æthelred Appendix'. Perhaps Liebermann’s [Schmidt’s?] uninspiring names have kept scholars away.[^1] In fact, 'Alfred-Guthrum Appendix' is perhaps the gravest example of a mismatch between an editorial name and the actual status of a text, because it is not an appendix nor originally associated with Alfred or Guthrum or their joint treaty. 
 
 More importantly, it is a unique example of a tract on a single topic of law compiled from various Anglo-Saxon decrees, in this case theft. It contains extracts from the laws of Ine, Edward, Æthelstan and Edmund[^2] on the topic of theft and rights and responsibilities in the justice system. The fact that it only survives as a translation in Quadripartitus – the twelfth-century translation into Latin of most Anglo-Saxon laws – means that the original is hidden from view. Nevertheless, the text is so close in wording to its sources that the original seems to have been made by copying clauses from the actual texts of Ine, Edward, Æthelstan and Edmund’s laws. 
 
 This ‘compilation on theft’ is chronologically ordered and based primarily on Ine and II Æthelstan. The first half consists mainly in extracts from Ine, which are (as far as we can tell) copied almost exactly as they appear in Alfred-Ine. The following extracts from II Æthelstan are treated more flexibly, with the compiler changing some words, adding detail and combining separate sentences. Lines from II Edward and III Edmund make occasional appearances, but seemingly only to add detail missing from the other sources. 
+
+The existence of this text suggests several things: there may have been people interested in law in an [intellectual/abstract] way – or the history and development of law. Someone with a specialist interest – no legal profession, but could suggest that those who operated as judges or advocates studied. There may have been a use for tracts on single subjects, perhaps in court. There will have been people with access to law texts from different periods. 
+
+So while this text contains clauses we already know from the original royal decrees from which they were taken, this text can show us a different part of the legal system than the standard royal decrees do. Other texts in this vein are already known, for instance Wulfstan's tracts and Wer/Ordal. AGu App adds to the picture suggested by these texts, but with the additional aspect of it using old texts and compiling, which suggests access to and interest in old law. 
+
 
 [^1]: Wormald does, of course, give both texts a bit of attention: *The Making of English Law* (MEL), Vol I, p. 321, 379–80.
 [^2]: Both Liebermann and Wormald took the laws of Edmund to be the latest included in AGu App (Wormald, MEL, p. 380, fn 520 and Liebermann, *Die Gesetze der Angelsachsen*, Vol III, p. 233). However, it seems to me that the first part of AGu App 5 could be adapted from III Eg 6. The wording is slightly different and so perhaps it is from a lost source, which Edgar later used too, or merely a coincidence. At any rate, I think the III Eg connection (or a lost source) is more reasonable than Liebermann’s suggestion of Af 34, which is on a different topic entirely.  
@@ -26,7 +31,7 @@ Gif he cenne ofer I scira, hæbbe I wucena fyrst; gif he cenne ofer II scira, h�
 
 If he can specify the county in which the man whom he vouches to warranty lives, he shall have a week’s adjournment; if he can locate him within two counties, he shall have two weeks; if within three, he shall have three weeks. The number of weeks’ adjournment granted him shall correspond to the number of counties which he names.[^6] 
 
-This might not sound like much to people used to other legislative traditions (medieval or modern), but Anglo-Saxon legislation almost never includes general principles like this. In Anglo-Saxon written law we would certainly expect to see something like the first part of this clause ('if one county, then one week's adjournment..') but not the second ('number of week's adjournment correspond with number of counties). 
+This might not sound like much to people used to other legislative traditions (medieval or modern), but Anglo-Saxon legislation almost never includes general statements like this. In Anglo-Saxon written law we would certainly expect to see something like the first part of this clause ('if one county, then one week's adjournment..') but not the second ('number of week's adjournment correspond with number of counties). 
 
 Perhaps the details, the summaries and the maxims mean that the text was written by someone with a specialist interest in the topic of vouching beyond practical knowledge of current practice. The attempts at covering all eventualities could be the result of thinking through the application of a law, and the summaries could be the written manifestation of such thinking. This specialist interest could also be also betrayed by a passage that starts *hwilon stod* (‘it used to be’) and which then goes on to explain ‘þa geræddan witan þæt hit betere wære þæt’ (‘then the witan decided that it would be better that’). Such an explicit reference to legal change is almost as rare as the legal maxims.[^7] 
 
@@ -40,12 +45,7 @@ Perhaps the details, the summaries and the maxims mean that the text was written
 NB! Fonthill – Helmstan is ‘nearer the oath’ than Æthelhelm, Helmstan has charters for sales/ownership of land and so is nearer [Keynes, ‘Fonthill Letter’ 71-3 points out connections Fonthill/II Atr App]
 
 
-EXTRACTS:
-IV Atr and other Quadripartitus Texts
 
-See Naismith but also Trotter (‘Stuffed Latin’, pp. 160ff) for French elements in IV Atr
-
-+ the series of ephemeral-seeming texts that only survived in Q (I As, As Alms, III As, etr) – tells us something about sources of Q but also about the potential existence of lots more ephemera. Also interesting that Q has v little Wulfstan – so some kind of different source material than we’d expect to be most interesting.
 
 
 

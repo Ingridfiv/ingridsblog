@@ -5,7 +5,7 @@ Tags: Edgar, IV Edgar, translation, Latin
 Authors: Ingrid Ivarsen
 Summary: Translations of the Old English and Latin versions, both from Cambridge, Corpus Christi College MS 265.
 
-The original in the manuscript can be viewed [here](https://parker.stanford.edu/parker/catalog/nh277tk2537). Liebermann's *Die Gesetze der Angelsachsen* Volume I edits both versions on [pp. 206–215 (MS C and Versio aus C)](https://archive.org/details/diegesetzederang01liebuoft/page/206/mode/2up). Translations are my own. I've marked some of the biggest differences in bold. See my other post on IV Edgar for some more context.
+The original in the manuscript can be viewed [here](https://parker.stanford.edu/parker/catalog/nh277tk2537). Liebermann's *Die Gesetze der Angelsachsen* Volume I edits both versions on [pp. 206–215 (MS C and Versio aus C)](https://archive.org/details/diegesetzederang01liebuoft/page/206/mode/2up). Translations are my own. I've marked some of the biggest differences in bold. See [here](https://ingridfiv.github.io/ingridsblog/the-strange-case-of-iv-edgar.html) for background on the text and [here](https://ingridfiv.github.io/ingridsblog/commentary-to-iv-edgar-latin.html) for a commentary to the differences between the Old English and Latin versions.
 
 |Old English version|Latin version      |
 |-------------------|-------------------|
