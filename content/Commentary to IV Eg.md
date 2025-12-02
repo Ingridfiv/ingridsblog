@@ -92,4 +92,4 @@ Bruce O'Brien's overall assessment was that the translator introduced ambiguity 
 
 
 [^4]: B. O'Brien, 'Translating Technical Terms in Law-Codes from Alfred to the Angevins', in Tyler (ed.), Conceptualizing Multilingualism in England, 800–1250 (2011), p. 68 fn. 35
-[^5]: F. Liebermann, *Gesetze III* ????
+[^5]: F. Liebermann, *Gesetze III*, pp. 138–9.
