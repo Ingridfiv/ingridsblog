@@ -14,6 +14,8 @@ The online catalogue of the University of Tokyo currently lists 1421 entries (so
 
 Of the identified books, there are around 600(?) pamphlets and ??? books. 
 
+How to identify: printed catalogue, OPAC catalogue. Stamps from financial ministry in everything. Bunko stamps in lots. FL himself also put his name or stamp in most books, though sometimes only a category. A small group of books only have the financial ministry stamp, but I am choosing to believe that this process was accurate at the time. And ?several of these have unmistakable FL notes. 
+
 I have tried to categorize everything. 
 
 There is obviously a lot of history, both primary sources (medieval and ancient) and secondary. 
@@ -24,7 +26,7 @@ There are loads of primary sources, ??tempted to say there are more ancient than
 
 Not as many language books as I might have expected -- there are grammars and dictionaries, but few books on linguistics/philology. Even though many see him as a ?philologist – or at least that his results were as important for language as for law or history (see e.g. Maitland lettter) – FL himself did not see himself as a philologist, but firmly a historian (as he says in several letters). 
 
-He doesn't seem to read that much "Germanicist" stuff, not very much on the other early medieval laws. Some stuff in this category, e.g. Steenstrup's danske folkeviser (but this was sent to FL by Steenstrup)
+He doesn't seem to read that much "Germanicist" stuff, not very much on the other early medieval laws. Some stuff in this category, e.g. Steenstrup's danske folkeviser (but this was sent to FL by Steenstrup). Gomme on the village community is very Indo-European – but FL seems to disagree with a lot of it. 
 
 Mostly books in German and English, a few in French and then some Norwegian and Danish, one Hungarian(!) and some others. 
 
@@ -35,5 +37,6 @@ FL also seems to have been interested in teaching; in philosophy(?), Jewish hist
 NOteworthy things
     the one on pine trees (Magnus Werner) and Hungarian one (use to discuss indiscriminate sending of articles among German academics)
     his own copies of Gesetze -- perhaps a separate post?
-
+    Mildly interesting that most of the pages of Green's Conquest of England are uncut
+    a book on physiology, on astronomy, chemistry?
 

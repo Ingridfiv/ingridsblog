@@ -7,7 +7,13 @@ Status: draft
 
 Felix Liebermann (1851–1925) was born into a wealthy Jewish family in Berlin. He grew up only metres from the Brandenburger Tor in central Berlin with his parents and three siblings, which included the famous painter Max Liebermann. His father wanted him to enter the family business in textile manufacturing, so after finishing school Felix trained at a bank in Berlin before being sent to Manchester to work in the textiles industry (1870–1872). When or how he became interested in history – English history in particular – is uncertain, though letters from his brother Max suggests he was reading history in the evenings in while working in the merchant industry [fn: Das Liebermann-buch, 101]. On returning to Germany, and after a year’s military service, he convinced his father to let him study history. He went to Göttingen, where he took courses in English history with Reinhold Pauli and German history with Georg Waitz. In 1875–6, he attended lectures in Berlin with, inter alia, Theodor Mommsen on Roman law and  Rudolf von Gneist on German constitutional law.[fn: Sandig, 26, 65 — has looked at school records, though Hazeltine’s obit says he was at Berlin in 1872-3]. His thesis on a twelfth-century legal text, *Einleitung in den Dialogus de Scaccario*, was published in 1875 and he was awarded his doctorate in January of 1876.  
 
+![painting of a young Felix]({static}/images/youngFL.jpg)
+*A young Felix Liebermann, painted by his brother*
+
 For the next decade or so, Liebermann worked at the Monumenta Germaniae Historica, where one of his Göttingen professors, Georg Waitz, had recently taken up the editorship.[fn: A new book has just been published on Jewish MGH associates, which has a chapter on Liebermann. Unfortunately I have not been able to see this yet!] Liebermann collaborated with Reinhold Pauli on volumes 27 (1885) and 28 (1888), completing them alone after Pauli died in 1882. These volumes collected historical writings on Germany from England, and so during this time, Liebermann spent long periods in England doing manuscript work. Though mostly on the clock for the MGH, he also found time to do his own work, resulting in the 1879 volume [*Ungedruckte Anglo-normannische geschichtsquellen*.](https://archive.org/details/ungedruckteanglonormaliebe/page/n5/mode/2up)
+
+![photo of a middle aged Felix]({static}/images/MGHFL.png)
+*A picture of Felix during his time at the MGH, from [this](https://digital.staatsbibliothek-berlin.de/werkansicht/?PPN=PPN1832961311) book.*
 
 Liebermann’s early work and training was thus in history, Latin and medieval English sources. But it seems that his real passion was for manuscript work, and so he soon turned to Anglo-Saxon sources too. In 1889, he edited the Old English and Latin texts of ‘On the resting places of saints’ (*Secgan*) and 'The Kentish royal legend' (*Þa halgan*) in [*Die Heiligen Englands*.](https://archive.org/details/dieheiligenengl00liebgoog/mode/2up)
 
@@ -45,7 +51,8 @@ Another hobby which was more academic-adjecent was his interest in politics and 
 In his youth, he described himself as a National Liberal [letter to Paul de Lagarde]. [He was pro wealth tax]. His notes in books express deep scepticism of English-style parliamentarism. 
 
 
-
+![photo of an old Felix]({static}/images/oldFL.jpeg)
+*Felix in his older days*
 
 
 The first world war was a disaster for Liebermann as a scholar and person. Not only was he cut off from his colleagues and friends in England, but he was also bitter and resentful at their attitudes and, in general, at the hatred towards Germany found in England and the English press. He fully supported Germany’s efforts, joining his fellow countrymen in blaming England for the outbreak of war. However, unlike many of his academic colleagues and his brother Max, Felix never signed the ‘Manifesto of the 93’ in October 1914, believing it to be a bad idea. However, to his chagrin, the English press had apparently reported that he did, and he consequently lost more friends over that too. [fn to letter to Amira?]

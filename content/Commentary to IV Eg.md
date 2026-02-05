@@ -1,7 +1,7 @@
 Title: Commentary to IV Edgar Latin
 Date: 2025-11-10
 Category: blog
-Tags: edgar, latin, translation
+Tags: edgar, latin, translation, iv edgar
 Authors: Ingrid Ivarsen
 Summary: Commentary on the differences between the Old English and Latin versions of IV Edgar. 
 Status: published
