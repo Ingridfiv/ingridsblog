@@ -15,7 +15,7 @@ Felix Liebermann (1851–1925) was born into a wealthy Jewish family in Berlin. 
 When or how he became interested in history – English history in particular – is uncertain, though letters from his brother Max suggests he was reading history in the evenings in while working in the merchant industry.[^1] On returning to Germany, and after a year’s military service, he convinced his father to let him study history. He went to Göttingen, where he took courses in English history with Reinhold Pauli and German history with Georg Waitz. In 1875–6, he attended lectures in Berlin with, inter alia, Theodor Mommsen on Roman law and  Rudolf von Gneist on German constitutional law.[^2] His thesis on a twelfth-century legal text, *Einleitung in den Dialogus de Scaccario*, was published in 1875 and he was awarded his doctorate in January of 1876.  
 
 [^1]: Ostwald, *Das Liebermann-buch*, p. 101.
-[^2]: Sandig, *Felix *Liebermann*, pp. 26, 65 gives these dates based on university records, though note that Hazeltine’s obituary says Liebermann was at Berlin in 1872-3.
+[^2]: Marina Sandig, *Felix Liebermann: Mittelalterhistoriker — Gelehrter — Mäzen* (2024), pp. 26, 65 gives these dates based on university records, though note that Hazeltine’s obituary says Liebermann was at Berlin in 1872-3.
 
 For the next decade or so, Liebermann worked at the Monumenta Germaniae Historica, where one of his Göttingen professors, Georg Waitz, had recently taken up the editorship.[^3] Liebermann collaborated with Reinhold Pauli on [volumes 27](https://www.dmgh.de/mgh_ss_27/index.htm#page/(III)/mode/1up) (1885) and [28](https://www.dmgh.de/mgh_ss_28/index.htm#page/(III)/mode/1up) (1888), completing them alone after Pauli died in 1882. These volumes collected historical writings on Germany from England, and so during this time, Liebermann spent long periods in England doing manuscript work. Though mostly on the clock for the MGH, he also found time to do his own work, resulting in the 1879 volume [*Ungedruckte Anglo-normannische geschichtsquellen*.](https://archive.org/details/ungedruckteanglonormaliebe/page/n5/mode/2up)
 
@@ -75,7 +75,7 @@ It's also clear that he took a great interest in teaching. According to an obitu
 
 In a note about Felix in *Wer ist's* (Who's who) of 1905, he described his three favourite pastimes as ‘Lesen schöner Litteratur, Sehen von Kunst, Fürsorge für Arme’, interests he had the time for given his freedom from teaching and other university duties.[^14] With his siblings, he set up Louis Liebermann Stiftung für die Armen Berlins after their father’s death in 1894 and with his wife Cäcilie he started a charitable foundation (Cäcilie- and Felix-Liebermann Stiftung) in 1905. He also donated money to children’s hospitals, orphanages and to support Jewish students.[^15]
 
-[^14]: https://archive.org/details/bub_gb_SuASAAAAYAAJ/page/812/mode/2up
+[^14]: [Wer Ist's? (1905).](https://archive.org/details/bub_gb_SuASAAAAYAAJ/page/812/mode/2up) 
 [^15]: Sandig, p. 42.
 
 Liebermann's Jewish identity was an important part of his life. He was involved in the running of the Zunz-Stiftung zur Förderung und Ausbreitung der Wissenschaft des Judentums and was chairman of the Salomon-Neumann-Stiftung fur die Wissenschaft des Judentums.[^16] He wrote a few articles for Jewish magazines and was interested in 
@@ -127,7 +127,7 @@ After the war, he resumed correspondence with a few English historians, includin
 On 7th October 1925, Felix Liebermann was hit by a car outside his home and died a few hours later. 
 
 
-Further reading:
+**Further reading**:
 
 * [Amira, Karl von, 'Felix Liebermann', *Jahrbuch der Bayerische Akademie der Wissenschaften* (1926)](https://badw.de/fileadmin/nachrufe/Liebermann%20Felix.pdf)
   
