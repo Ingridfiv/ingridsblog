@@ -22,11 +22,11 @@ For the next decade or so, Liebermann worked at the Monumenta Germaniae Historic
 [^3]: A [new book](https://search.worldcat.org/title/1405944496) has recently been published on Jewish MGH associates, which has a chapter on Liebermann. Unfortunately I have not been able to see this yet!
 
 ![photo of a middle aged Felix]({static}/images/MGHFL.png)
-*A picture of Felix during his time at the MGH, from [this book](https://digital.staatsbibliothek-berlin.de/werkansicht/?PPN=PPN1832961311) book.*
+*A picture of Felix during his time at the MGH, from [this book](https://digital.staatsbibliothek-berlin.de/werkansicht/?PPN=PPN1832961311)*
 
 **The Anglo-Saxon laws**
 
-Felix soon turned to Anglo-Saxon sources too. In 1883, he had been given a commission to re-edit the Anglo-Saxon laws by the Savigny-Stiftung, at the behest of Heinrich Brunner and Konrad Maurer, who considered extant editions inadequate, given that the previous edition (while good) had been prepared without the editor ever seeing one of the manuscripts.[^4] In 1884, Felix published some initial research from the manuscripts in the article 'Zu den Gesetzen der Angelsachsen' [fn: Zeitschrift der Savigny-Stiftung für Rechtsgeschichte: Germanistische Abteilung Bd. 5 (1884) S. 198-226]. 
+Felix soon turned to Anglo-Saxon sources too. In 1883, he had been given a commission to re-edit the Anglo-Saxon laws by the Savigny-Stiftung, at the behest of Heinrich Brunner and Konrad Maurer, who considered extant editions inadequate, given that the previous edition (while good) had been prepared without the editor ever seeing one of the manuscripts.[^4] In 1884, Felix published some initial research from the manuscripts in the article 'Zu den Gesetzen der Angelsachsen' in *Zeitschrift der Savigny-Stiftung für Rechtsgeschichte*.
 
 [^4]: Karl von Amira, 'Felix Liebermann', *Jahrbuch der Bayerische Akademie der Wissenschaften* (1926). Reinhold Schmid, *Die Gesetze der Angelsachsen*, p. viii.
 
@@ -78,43 +78,41 @@ In a note about Felix in *Wer ist's* (Who's who) of 1905, he described his three
 [^14]: https://archive.org/details/bub_gb_SuASAAAAYAAJ/page/812/mode/2up
 [^15]: Sandig, p. 42.
 
-Liebermann's Jewish identity was also an important part of his life. He was involved in the running of the Zunz-Stiftung zur Förderung und Ausbreitung der Wissenschaft des Judentums and was chairman of the Salomon-Neumann-Stiftung fur die Wissenschaft des Judentums.[^16] He wrote a few articles for Jewish magazines and was interested in 
+Liebermann's Jewish identity was an important part of his life. He was involved in the running of the Zunz-Stiftung zur Förderung und Ausbreitung der Wissenschaft des Judentums and was chairman of the Salomon-Neumann-Stiftung fur die Wissenschaft des Judentums.[^16] He wrote a few articles for Jewish magazines and was interested in 
 work on Jewish history.[^17]
 
 [^16]: Sandig, p. 42.
 [^17]: Liebermann wrote several articles for the *Allgemeine Zeitung des Judentums* during the war, including ['Noch einmal der englische Zionismus' ](https://sammlungen.ub.uni-frankfurt.de/cm/periodical/pagetext/3285392)(issue 81.10, 9.3.1917) and ['Wenn ich neutraler wäre'](https://sammlungen.ub.uni-frankfurt.de/cm/periodical/pagetext/3284798) (issues 80.29/30 14 & 21.7.1916). 
 
-Several memorials of Liebermann notes that he was proud of his Jewish identity, though that he was uninterested in religious disputes.[^18]
-
-[Allgemeine Zeitung der Judentums 1921, obit in CV Zeitung] Ludwig Geiger, in a tribute to Liebermann on his sixtieth birthday, wrote that “While he lived according to traditional precepts out of respect for his parents and in-laws, he always maintained his own independent views on the nature and development of the religion.”[^19]
+Several memorials of Liebermann notes that he was proud of his Jewish identity, though that he was uninterested in religious disputes.[^18] Ludwig Geiger, in a tribute to Liebermann on his sixtieth birthday, wrote that “While he lived according to traditional precepts out of respect for his parents and in-laws, he always maintained his own independent views on the nature and development of the religion.”[^19]
 
 [^18]: Ismar Elbogen, 'Felix Liebermann', *Central-Verein-Zeitung: Blätter für Deutschtum und Judentum* 42, 16.10.25. Anonymous birthday tribute to Liebermann in [*Allgemeine Zeitung der Judentums* 14 (8.7.1921).](https://sammlungen.ub.uni-frankfurt.de/cm/periodical/pageview/3288890)
 [^19]: [L. Geiger, 'Professor Felix Liebermann', *Allgemeine Zeitung des Judentums* 75 (1911) [21.7.1911], pp. 341–2.](https://sammlungen.ub.uni-frankfurt.de/cm/periodical/pageview/3279862)
 
-Another interest was in politics and social reform. In his youth, he described himself as a National Liberal,[^20] though he rarely discussed party politics later. However, his library reveals that he read widely on current political and social issues throughout his life, including many of the books and pamphlets issued by the Gesellschaft für Soziale Reform. He occasionally wrote a couple of articles for *Ethische Kultur: Monatsblatt für ethisch-soziale Neugestaltung*,[^21] and assisted in setting up the organisation's reading room.[^22] 
+Another interest was in politics and social reform. In his youth, he described himself as a National Liberal,[^20] though he rarely discussed party politics later. However, his library reveals that he read widely on current political and social issues throughout his life, including many of the books and pamphlets issued by the Gesellschaft für Soziale Reform. He occasionally wrote articles for *Ethische Kultur: Monatsblatt für ethisch-soziale Neugestaltung*,[^21] and assisted in setting up the organisation's reading room.[^22] 
 
 [^20]: Letter to Paul de Lagarde, 22.10.1879, Niedersächsische Staats- und Universitätsbibliothek Göttingen https://kalliope-verbund.info/DE-611-HS-3171746.
 [^21]: ['Wie England unser Feind wurde'](https://scripta.bbf.dipf.de/viewer/fullscreen/024430897_0022/165/), *Ethische Kultur* 1.11.1914, ['Beim Frieden keine Rücksicht auf Opfer und Rache!'](https://bbf-scripta-paedagogica.de/viewer/image/024430897_0024/149/LOG_0126/) *Ethische Kultur* 1.10.1916, ['Sollen wir uns von der Kleidung befreien?'](https://bbf-scripta-paedagogica.de/viewer/image/024430897_0033/18/LOG_0019/) *Ethische Kultur* 15.3.1925.
 [^22]: Paul Jaffé, 'In memoriam Felix Liebermann', *Ethische Kultur* 15.11.1925.
 
 ![photo of an old Felix]({static}/images/oldFL.jpeg)
-*[Felix in his older days](https://makor.primo.exlibrisgroup.com/discovery/delivery/01JTS_INST:01JTS/1256930210007706)s*
+*[Felix in his older days](https://makor.primo.exlibrisgroup.com/discovery/delivery/01JTS_INST:01JTS/1256930210007706)*
 
 **The First World War**
 
-The first world war was a disaster for Liebermann as a scholar and person. Not only was he cut off from his colleagues and friends in England, but he was also bitter and resentful at their attitudes and, in general, at the hatred towards Germany found in England and the English press. He fully supported Germany’s efforts, joining his fellow countrymen in blaming England for the outbreak of war. However, unlike many of his academic colleagues, Felix refrained from signing the ‘Manifesto of the 93’ (*An die Kulturwelt!*) in October 1914, believing it to be a bad idea. However, to his chagrin, the English press had apparently reported that he did (believing him to be the 'Prof Liebermann' on the list of signatories, while this was in fact his brother Max). He lost more friends over that too.[^23] 
+The first world war was a disaster for Liebermann as a scholar and person. Not only was he cut off from his colleagues and friends in England, but he was also bitter and resentful at their attitudes and, in general, at the hatred towards Germany found in England and the English press. He fully supported Germany’s efforts, joining his fellow countrymen in blaming England for the outbreak of war. However, unlike many of his academic colleagues, Felix refrained from signing the ‘Manifesto of the 93’ (*An die Kulturwelt!*) in October 1914, believing it to be a bad idea. However, to his disappointment, the English press had apparently reported that he did (believing him to be the 'Prof Liebermann' on the list of signatories, while this was in fact his brother Max). He lost friends and colleagues over that.[^23] 
 
 [^23]: Letter to Karl von Amira 3.8.1921, Bayerische Staatsbibliothek http://kalliope-verbund.info/DE-611-HS-558354]
 
 He alienated more of his British colleagues with his dedication to the third volume of Gesetze (1916):
 
->"...trusting hope that the storm of hatred and the sea of blood that rage around the time of the completion of these pages may soon be understood as essentially caused by the ... clash between the ruthless claims of a world empire accustomed to power, to dominate seafaring and world trade alone, and the justified decision of the united German people to strive for the goods of this earth peacefully and prudently..."
+>"...trusting hope that the storm of hatred and the sea of blood that rage around the time of the completion of these pages may soon be understood as essentially caused by the ... clash between the ruthless claims of a world empire accustomed to power, to dominate seafaring and world trade alone, and the justified decision of the united German people to strive for the goods of this earth peacefully and prudently...".
 
 He also expressed a desire for reconciliation and looked back at the days of collaboration between German and English scholars, but in the eyes of his English colleagues this was overshadowed by the belligerency of the dedication.[^24]
 
 [^24]: e.g. Tout, ‘Felix Liebermann (1851–1925)’, *History* n.s. 11 (1926), p. 318.
 
-In 1917, Liebermann was also struck off as a member of the Royal Historical Society, alongside other 'Enemy-Members' from Germany and Hungary. Only those who had 'dissociated themselves explicitly from the late political and military action of their countries' were kept.[^25] This did certainly not include Liebermann. He felt this so unfair that he also refused to be reinstated after the war, though he eventually was in April 1924.[^26] 
+In 1917, Liebermann was struck off as a member of the Royal Historical Society, alongside other 'Enemy-Members' from Germany and Hungary. Only those who had 'dissociated themselves explicitly from the late political and military action of their countries' were kept.[^25] This did certainly not include Liebermann. He felt this so unfair that he also refused to be reinstated after the war, though he eventually was in April 1924.[^26] 
 
 [^25]: 'Report of the Council, Session 1917-18', *Transactions of the Royal Historical Society* 2 (1919): 199-205, at 203.
 [^26]: Letter to Prothero, 10.11.1921, RHS Archive's [Prothero Collection](https://royalhistsoc.org/rhs-archive/). 
@@ -131,14 +129,14 @@ On 7th October 1925, Felix Liebermann was hit by a car outside his home and died
 
 Further reading:
 
-[Amira, Karl von, 'Felix Liebermann', *Jahrbuch der Bayerische Akademie der Wissenschaften* (1926)](https://badw.de/fileadmin/nachrufe/Liebermann%20Felix.pdf)
-Brandl, Alois, ‘Felix Liebermann’ in *Archiv für das Studium der neueren Sprachen* 150 (1926): 1–5.
-[Geiger, L. 'Professor Felix Liebermann', *Allgemeine Zeitung des Judentums* 75 (1911) [21.7.1911], pp. 341–2.](https://sammlungen.ub.uni-frankfurt.de/cm/periodical/pageview/3279862)
-Hazeltine, Harold, ‘Felix Liebermann 1851–1925’, *Proceedings of the British Academy* 24 (1938): 319–359.
-Heymann, Ernst, ‘Felix Liebermann’, *Zeitschrift der Savigny-Stiftung für Rechtsgeschichte - Germanistische Abteilung* 46 (1926): 23–39.
-Kleinschmidt, Harald, *Felix Liebermann 1851–1925, Bibliographie seiner Schriften* (Stuttgart, 1983).
-Ostwald, Hans, *Das Liebermann-buch* (Berlin, 1930).
-Rabin, Andrew, ‘Felix Liebermann and Die Gesetze der Angelsachsen’, in Stefan Jurasinski et al. (eds), *English Law before Magna Carta: Felix Liebermann and* Die Gesetze der Angelsachsen (Leiden, 2010), pp. 1–8.
-Sandig, Marina, *Felix Liebermann: Mittelalterhistoriker — Gelehrter — Mäzen* (Leipzig, 2024).
-Tout, T.F., ‘Felix Liebermann (1851–1925)’, *History* n.s. 11 (1926): 311–319.
-Wormald, Patrick, ‘Felix Liebermann’, in John Cannon et al. (eds) *The Blackwell Dictionary of Historians* (New York, 1988), pp. 245–247.
+*[Amira, Karl von, 'Felix Liebermann', *Jahrbuch der Bayerische Akademie der Wissenschaften* (1926)](https://badw.de/fileadmin/nachrufe/Liebermann%20Felix.pdf)
+*Brandl, Alois, ‘Felix Liebermann’ in *Archiv für das Studium der neueren Sprachen* 150 (1926): 1–5.
+*[Geiger, L. 'Professor Felix Liebermann', *Allgemeine Zeitung des Judentums* 75 (1911) [21.7.1911], pp. 341–2.](https://sammlungen.ub.uni-frankfurt.de/cm/periodical/pageview/3279862)
+*Hazeltine, Harold, ‘Felix Liebermann 1851–1925’, *Proceedings of the British Academy* 24 (1938): 319–359.
+*Heymann, Ernst, ‘Felix Liebermann’, *Zeitschrift der Savigny-Stiftung für Rechtsgeschichte - Germanistische Abteilung* 46 (1926): 23–39.
+*Kleinschmidt, Harald, *Felix Liebermann 1851–1925, Bibliographie seiner Schriften* (Stuttgart, 1983).
+*Ostwald, Hans, *Das Liebermann-buch* (Berlin, 1930).
+*Rabin, Andrew, ‘Felix Liebermann and Die Gesetze der Angelsachsen’, in Stefan Jurasinski et al. (eds), *English Law before Magna Carta: Felix Liebermann and* Die Gesetze der Angelsachsen (Leiden, 2010), pp. 1–8.
+*Sandig, Marina, *Felix Liebermann: Mittelalterhistoriker — Gelehrter — Mäzen* (Leipzig, 2024).
+*Tout, T.F., ‘Felix Liebermann (1851–1925)’, *History* n.s. 11 (1926): 311–319.
+*Wormald, Patrick, ‘Felix Liebermann’, in John Cannon et al. (eds) *The Blackwell Dictionary of Historians* (New York, 1988), pp. 245–247.
