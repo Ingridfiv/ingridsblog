@@ -129,14 +129,24 @@ On 7th October 1925, Felix Liebermann was hit by a car outside his home and died
 
 Further reading:
 
-*[Amira, Karl von, 'Felix Liebermann', *Jahrbuch der Bayerische Akademie der Wissenschaften* (1926)](https://badw.de/fileadmin/nachrufe/Liebermann%20Felix.pdf)
-*Brandl, Alois, ‘Felix Liebermann’ in *Archiv für das Studium der neueren Sprachen* 150 (1926): 1–5.
-*[Geiger, L. 'Professor Felix Liebermann', *Allgemeine Zeitung des Judentums* 75 (1911) [21.7.1911], pp. 341–2.](https://sammlungen.ub.uni-frankfurt.de/cm/periodical/pageview/3279862)
-*Hazeltine, Harold, ‘Felix Liebermann 1851–1925’, *Proceedings of the British Academy* 24 (1938): 319–359.
-*Heymann, Ernst, ‘Felix Liebermann’, *Zeitschrift der Savigny-Stiftung für Rechtsgeschichte - Germanistische Abteilung* 46 (1926): 23–39.
-*Kleinschmidt, Harald, *Felix Liebermann 1851–1925, Bibliographie seiner Schriften* (Stuttgart, 1983).
-*Ostwald, Hans, *Das Liebermann-buch* (Berlin, 1930).
-*Rabin, Andrew, ‘Felix Liebermann and Die Gesetze der Angelsachsen’, in Stefan Jurasinski et al. (eds), *English Law before Magna Carta: Felix Liebermann and* Die Gesetze der Angelsachsen (Leiden, 2010), pp. 1–8.
-*Sandig, Marina, *Felix Liebermann: Mittelalterhistoriker — Gelehrter — Mäzen* (Leipzig, 2024).
-*Tout, T.F., ‘Felix Liebermann (1851–1925)’, *History* n.s. 11 (1926): 311–319.
-*Wormald, Patrick, ‘Felix Liebermann’, in John Cannon et al. (eds) *The Blackwell Dictionary of Historians* (New York, 1988), pp. 245–247.
+* [Amira, Karl von, 'Felix Liebermann', *Jahrbuch der Bayerische Akademie der Wissenschaften* (1926)](https://badw.de/fileadmin/nachrufe/Liebermann%20Felix.pdf)
+  
+* Brandl, Alois, ‘Felix Liebermann’ in *Archiv für das Studium der neueren Sprachen* 150 (1926): 1–5.
+  
+* [Geiger, L. 'Professor Felix Liebermann', *Allgemeine Zeitung des Judentums* 75 (1911) [21.7.1911], pp. 341–2.](https://sammlungen.ub.uni-frankfurt.de/cm/periodical/pageview/3279862)
+  
+* Hazeltine, Harold, ‘Felix Liebermann 1851–1925’, *Proceedings of the British Academy* 24 (1938): 319–359.
+  
+* Heymann, Ernst, ‘Felix Liebermann’, *Zeitschrift der Savigny-Stiftung für Rechtsgeschichte - Germanistische Abteilung* 46 (1926): 23–39.
+  
+* Kleinschmidt, Harald, *Felix Liebermann 1851–1925, Bibliographie seiner Schriften* (Stuttgart, 1983).
+  
+* Ostwald, Hans, *Das Liebermann-buch* (Berlin, 1930).
+  
+* Rabin, Andrew, ‘Felix Liebermann and Die Gesetze der Angelsachsen’, in Stefan Jurasinski et al. (eds), *English Law before Magna Carta: Felix Liebermann and* Die Gesetze der Angelsachsen (Leiden, 2010), pp. 1–8.
+  
+* Sandig, Marina, *Felix Liebermann: Mittelalterhistoriker — Gelehrter — Mäzen* (Leipzig, 2024).
+  
+* Tout, T.F., ‘Felix Liebermann (1851–1925)’, *History* n.s. 11 (1926): 311–319.
+  
+* Wormald, Patrick, ‘Felix Liebermann’, in John Cannon et al. (eds) *The Blackwell Dictionary of Historians* (New York, 1988), pp. 245–247.
