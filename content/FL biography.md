@@ -82,7 +82,7 @@ Liebermann's Jewish identity was an important part of his life. He was involved 
 work on Jewish history.[^17]
 
 [^16]: Sandig, p. 42.
-[^17]: Liebermann wrote several articles for the *Allgemeine Zeitung des Judentums* during the war, including ['Noch einmal der englische Zionismus' ](https://sammlungen.ub.uni-frankfurt.de/cm/periodical/pagetext/3285392)(issue 81.10, 9.3.1917) and ['Wenn ich neutraler wäre'](https://sammlungen.ub.uni-frankfurt.de/cm/periodical/pagetext/3284798) (issues 80.29/30 14 & 21.7.1916). 
+[^17]: Liebermann wrote several articles for the *Allgemeine Zeitung des Judentums* during the war, including ['Noch einmal der englische Zionismus' ](https://sammlungen.ub.uni-frankfurt.de/cm/periodical/pagetext/3285392)(issue 81.10, 9.3.1917) and ['Wenn ich neutraler wäre'](https://sammlungen.ub.uni-frankfurt.de/cm/periodical/pagetext/3284798) (issues 80.29/30 14 & 21.7.1916). He also contributed notes on Jewish history to *Monatsschrift für Geschichte und Wissenschaft des Judentums*, e.g. 'Juden in England, aus Deutschland eingewandert' (vol. 55 (March/April 1911), p. 253) and 'Elisabeth von Englands jüdischer Agent in Konstantinopel' (vol. 53 (September/Oktober 1909), p. 634, 749).
 
 Several memorials of Liebermann notes that he was proud of his Jewish identity, though that he was uninterested in religious disputes.[^18] Ludwig Geiger, in a tribute to Liebermann on his sixtieth birthday, wrote that “While he lived according to traditional precepts out of respect for his parents and in-laws, he always maintained his own independent views on the nature and development of the religion.”[^19]
 
