@@ -27,7 +27,7 @@ E.g. in Preuss' Obrigkeitsstaat, where FL disagrees with benefits of parliamenta
 
 
 
-lot of the war books/contemporary politics -- often disagrees and writes out his reseasons in the margins. Often a lot. Sometimes just loads of questions marks in the margins. This is f.ex. in Houston Chamberlaine -- where he seems to have disagreed (or questioned) lots of it (and that's also clear from when he discusses HC in the article 'Wenn ich neutraler ware'). He also had lots of ? and ?! in Sisam's article on Lambarde. Sisam sent FL this article a month before he died -- he clearly read it carefully, disagreed, but died before he could write anything about it. 
+lot of the war books/contemporary politics -- often disagrees and writes out his reseasons in the margins. Often a lot. Sometimes just loads of questions marks in the margins. This is f.ex. in Houston Chamberlaine -- where he seems to have disagreed (or questioned) lots of it (and that's also clear from when he discusses HC in the article 'Wenn ich neutraler ware'). He also had lots of ? and ?! in Sisam's article on Lambarde. Sisam sent FL this article a month before he died -- he clearly read it carefully, disagreed, but died before he could write anything about it. [NB! he did write about it in review] 
 
 Thorpe's edition of the AS laws is also an interesting use of books. Clearly FL sent off parts to someone at the BL who collated with other MS of the texts that Thorpe hadn't used. FL wrote questions and comments in the text, the person collating wrote answers and all variants etr. Other editions also have variants and corrections in FL's hand. 
 
@@ -40,3 +40,5 @@ books reviews etr (in Ungedruckte)
 Books he received from others (see post on letters)
 Papers for the AMerican historical congress 1914 -- marked as a 'Tract. belli'
 Also habit, as he mentions in a letter, of underlining in books. Lots of question marks too (sometimes accompanied with notes in his hand, other times not. But clearly him)
+mention his categories -- for the most part uninteresting (though allows timelines of when he acquired stuff, useful for understanding e.g. when he learnt OE)
+    sometimes interesting as when he strikes out 'tract belli' and write [something else]
