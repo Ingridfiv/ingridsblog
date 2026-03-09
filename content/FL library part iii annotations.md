@@ -6,6 +6,8 @@ Summary: What can we find in Liebermann's books?
 Status: draft
 
 
+
+
 The contents of Libermann's library gives an insight into the intellectual formation of a nineteenth-century medieval historian and editor – though as I described in a previous post [link] a lot of it is unsurprising. 
 
 Thankfully, Liebermann was an avid note-taker, and so we don't just have access to what read but also what he thought about (some of) what he read. And some books have other little bits of evidence for his life and thoughts. 
@@ -42,3 +44,5 @@ Papers for the AMerican historical congress 1914 -- marked as a 'Tract. belli'
 Also habit, as he mentions in a letter, of underlining in books. Lots of question marks too (sometimes accompanied with notes in his hand, other times not. But clearly him)
 mention his categories -- for the most part uninteresting (though allows timelines of when he acquired stuff, useful for understanding e.g. when he learnt OE)
     sometimes interesting as when he strikes out 'tract belli' and write [something else]
+
+    birthday and christmas books from wife
