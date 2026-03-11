@@ -1,4 +1,6 @@
 Title: Felix Liebermann's life
+Date: 2026-02-09
+Modified: 2026-02-17
 Category: article
 Tags: Liebermann, historiography
 Authors: Ingrid Ivarsen
