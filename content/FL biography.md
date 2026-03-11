@@ -1,7 +1,5 @@
 Title: Felix Liebermann's life
-Date: 2026-02-09
-Modified: 2026-02-17
-Category: blog
+Category: article
 Tags: Liebermann, historiography
 Authors: Ingrid Ivarsen
 Summary: What do we know about Felix Liebermann the man?

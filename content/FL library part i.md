@@ -1,6 +1,6 @@
 Title: Felix Liebermann's library in Tokyo, Part I
 Date: 2025-10-16
-Category: blog
+Category: article
 Tags: Liebermann, Anglo-Saxon law, historiography
 Authors: Ingrid Ivarsen
 Summary: Who is Felix Liebermann and how did his library end up in Tokyo?
