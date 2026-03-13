@@ -1,4 +1,5 @@
 Title: The problems with 'Welsh' and 'English' in Ine's laws
+Category: article
 Date: 2025-09-16
 Authors: Ingrid Ivarsen
 Tags: Ine, Lex Salica, Alfred, translation, Latin

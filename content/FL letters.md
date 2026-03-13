@@ -1,5 +1,5 @@
 Title: Felix Liebermann's letters
-Category: blog
+Category: article
 Tags: Liebermann, Anglo-Saxon law, historiography
 Authors: Ingrid Ivarsen
 Summary: the things I've learnt from letters sent to and from Liebermann
