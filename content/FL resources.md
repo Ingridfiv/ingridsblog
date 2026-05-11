@@ -14,3 +14,4 @@ links to pictures of FL
 FL bibliography [contact me]
 reading lists [academics and war, Eng and Germ legal history 19th c, philology/history in 19th c, Jewish academics/general, Old English studies in 19th c ]
 
+For the catalogue -- explain the stamps, explain the rebound books missing front page

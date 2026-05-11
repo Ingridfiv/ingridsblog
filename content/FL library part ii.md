@@ -11,7 +11,7 @@ As mentioned in a previous [blog post](https://ingridfiv.github.io/ingridsblog/f
 
 Fortunately, books belonging to Liebermann are easy to recognise when you come across them. They carry a stamp from the Department of Finance (reading 大蔵省賠償金特別会計所属図書 “Books Pertaining to Department of Finance Special Account for Reparations”), alongside a number corresponding to their number in a 1937 print catalogue of the purchase. Many of them also have a stamp reading リーバアマン文庫 ('Liebermann bunko' or Liebermann collection). Liebermann usually signed or stamped his name in his books too and he usually assigned them a category (e.g. “Jus Angl” for English law, “Hist Germ” for German history, "Tract belli 1914" for literature on WWI and so on).[^FN] 
 
-[^FN]: After arriving in Tokyo, a lot of books were rebound. Unfortunately, this resulted in the first page, where Liebermann usually wrote his name and categories, being taken out. The margins of pages were often cut in this process too, which has resulted in many of Liebermann's notes being illegible, especially in his own copies of *Der Gesetze der Angelsachsen*.
+[^FN]: After arriving in Tokyo, a lot of books were rebound. Unfortunately, this resulted in the first page, where Liebermann usually wrote his name and categories, being taken out. The margins of pages were often cut in this process too, which means that many of Liebermann's notes are illegible, especially those in his copies of *Der Gesetze der Angelsachsen*.
 
 The catalogue drawn up in 1937 states that there are 5542 items in the library. Of these, it gives a complete record of all the books. But for 'pamphlets' (mostly article offprints), it merely stated that there were 1762, with no further information given. Some 300 of these have been added to the online catalogue since, and I have found approximately 350 more. But there should be over 1000 more (though I have a hard time thinking these all still exist, given how thoroughly I've looked). What's more, some 170 of the books listed in the 1937 catalogue have gone missing. Therefore, the number of books, journals and reprints of articles from Liebermann’s library currently accounted for is around 4200.  Of the identified items, there are c. 650 pamphlets, c. 2800 books and c. 800 issues of journals. 
 
@@ -26,9 +26,9 @@ Around 550 items are primary sources, and 200 are reference works. There are aro
 
 mention modern law and politics!
 
+mention FL's own categories -- shows how much is missing e.g. to do with WWI
 
-
-
+mention that there is no fiction in library (except one of two vols of Jude the Obscure. He certainly would have had tons of fiction, given that he noted that as one of his three main hobbies)
 
 Liebermann had an impressive collection of rare books. the oldest book dates to 1494.[^FN] There are 120 books dating to before 1800, with one from the 15th century, 23 from the 16th century, 34 from the 17th century and 63 from the 18th century. This includes first editions of the earliest editions of Anglo-Saxon law, namely those by William Lambarde (1568), Abraham Whelock (1644) and David Wilkins (1721). Most of these old books are other early printed editions of medieval primary sources, including first (or early) editions of works by Henry Spelman and John Selden. 
 

@@ -5,7 +5,7 @@ Category: article
 Tags: Liebermann, historiography
 Authors: Ingrid Ivarsen
 Summary: What do we know about Felix Liebermann the man?
-Status: published
+Status: draft
 
 Felix Liebermann (1851–1925) was born into a wealthy Jewish family in Berlin. He grew up only metres from the Brandenburger Tor in central Berlin with his parents and three siblings, which included the famous painter Max Liebermann. His father wanted him to enter the family business in textile manufacturing, so after finishing school Felix trained at a bank in Berlin before being sent to Manchester to work in the textiles industry (1870–1872). 
 

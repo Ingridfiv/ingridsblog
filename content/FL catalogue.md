@@ -1,0 +1,44 @@
+Title: A catalogue for the Liebermann Library in Tokyo
+Category: article
+Tags: Liebermann, Anglo-Saxon law, historiography
+Authors: Ingrid Ivarsen
+Summary: A complete-as-possible catalogue of the books owned by Felix Liebermann.
+
+
+
+As mentioned in a previous [blog post](https://ingridfiv.github.io/ingridsblog/felix-liebermanns-library-in-tokyo-part-i.html), Liebermann's books were dispersed across the general holdings of the University of Tokyo's library and have never been gathered into a single physical collection. And given that no complete catalogue exists, a lot of my time in Tokyo was  spent finding Liebermann's books and making a new catalogue.
+
+Fortunately, books belonging to Liebermann are easy to recognise when you come across them. They carry a stamp from the Department of Finance (reading 大蔵省賠償金特別会計所属図書 “Books Pertaining to Department of Finance Special Account for Reparations”), alongside a number corresponding to their number in a 1937 print catalogue of the purchase. Many of them also have a stamp reading リーバアマン文庫 ('Liebermann bunko' or Liebermann collection). In addition, Liebermann usually signed or stamped his name in his books  and assigned them a category (e.g. “Jus Angl” for English law, “Hist Germ” for German history, "Tract belli 1914" for literature on WWI and so on).[^FN] 
+
+[^FN]: After arriving in Tokyo, a lot of books were rebound. Unfortunately, this resulted in the first page, where Liebermann usually wrote his name and categories, being taken out. The margins of pages were often cut in this process too, which means that many of Liebermann's notes are illegible, including many of those in his copies of *Der Gesetze der Angelsachsen*.
+
+The catalogue drawn up in 1937 states that there are 5542 items in the library. It gives a complete record of all books and journals (numbering 1988, many with several volumes), but it lists all "pamphlets" (mostly article offprints) as one item with 1762 volumes. Some 300 of these have been identified and added to the online catalogue since, and I have found approximately 350 more. But this means that there should be around 1000 more somewhere in the library (though I have a hard time thinking these all still exist, given how thoroughly I've looked). What's more, some 170 of the books listed in the 1937 catalogue have gone missing. Therefore, the number of books, journals and reprints of articles from Liebermann’s library currently accounted for is around 4200. Of the identified items, there are c. 650 pamphlets, c. 2800 books and c. 800 issues of journals. 
+
+Much of the content of the library is unsurprising. According to my own categorisation, there are c.1450 items relating to history (of which c. 260 in legal history), some 350 on literature, 200 or so on language and linguistics, and around 350 on contemporary politics and law (of which c.50 relate to the first world war).
+
+Around 550 items are primary sources and 200 are reference works. There are around 1000 items on the Middle Ages (including about 300 on Anglo-Saxon England), around 150 on the ancient period, and around 300 on the modern and early modern period. Almost 800 items relate to England, 380 to Germany, 138 to France, 40 to Scotland, c.40 to Scandinavia and around 20 each for Wales, Ireland and Italy. There are roughly 60 books relating to Jewish history, law and current affairs. There are also smaller categories, such as geography, philosophy, science, botany, China, agriculture, biology, music and a range of other things. 
+
+There is only one fiction book in the library, the second volume of Jude the Obscure by Thomas Hardy. Presumably he had a collection of fiction too – given that he described reading fiction as one of his three main past-times [^FN] – but these may have been sold separately. 
+
+[^FN]: [Wer Ist's? (1905).](https://archive.org/details/bub_gb_SuASAAAAYAAJ/page/812/mode/2up)  
+
+
+Liebermann had an impressive collection of rare books. The oldest book, according to the 1937 print catalogue dates to 1494, though this seems to have gone missing from the library.[^FN] The oldest book from the collection still present is Solinus's *De memorabilibus mundi* in an edition from 1512. There are 120 books dating to before 1800, with one from the 15th century, 23 from the 16th century, 34 from the 17th century and 63 from the 18th century. This includes first editions of the earliest editions of Anglo-Saxon law, namely those by William Lambarde (1568), Abraham Whelock (1644) and David Wilkins (1721). Most of these old books are other early printed editions of medieval primary sources, including first (or early) editions of works by Henry Spelman and John Selden. 
+
+Liebermann was, as I wrote about [here](https://ingridfiv.github.io/ingridsblog/felix-liebermanns-life.html), very wealthy. In addition to books, he and his wife also collected art. In a statement written to the Royal Historical Society in 1924 he says that, due to financial struggles during and after the first world war, he has had to sell his art and his wife's jewelleries, but that “my library has not yet been sold”. 
+
+[^FN]: *Plura ac diversa divi Aurelii Augustini Sermonum Opera videlicet*, seems to have gone missing from the UT library.
+
+
+>Parts of the library can be searched through the University of Tokyo's normal library search. It can be searched [here](https://opac.dl.itc.u-tokyo.ac.jp/opac/opac_search/?lang=1), by going to 'Advanced Search' and choosing 'Liebermann Collection' from the 'Collections' tab under 'Search Options'. Note that this includes about half of the known items in the library. 
+
+----- 
+
+For the catalogue -- explain the stamps, explain the rebound books missing front page
+    the ones listed as missing are in the 1937 catalogue, no longer to be found in library (have looked at all extant versions of these books in the various libraries in Tokyo, none have any signs of being from Liebermann. Quite often other copies are gifts after the earthquake, often from Britain in the case of FL books. SO perhaps duplicates were given away vel sim)
+    some I just haven't been able to look at, not unlikely to be in library
+    OPAC= Tokyo's online library catalogue
+
+    Mention that FL reviews at not exhaustive (contact me for copy of FL's biography)
+
+
