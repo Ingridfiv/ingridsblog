@@ -3,9 +3,9 @@ Category: article
 Tags: Liebermann, Anglo-Saxon law, historiography
 Authors: Ingrid Ivarsen
 Summary: A complete-as-possible catalogue of the books owned by Felix Liebermann.
-Status: draft
+Status: published
 
-[First of all, here is a copy of the catalogue.]({static}/downloads/FL-catalogue-may–2026.numbers) 
+[First of all, you can download copy of the catalogue here.]({static}/downloads/FL-catalogue-may–2026.xlsx) Or find it on Google sheets [here.](https://docs.google.com/spreadsheets/d/e/2PACX-1vShydFeP5MV2Ri7u65GouWi5xVOYk8SI7-2DY20Op_T7uGSWGS_ITcjbdtLCwK5pKt8v7ElaAwj4De0/pubhtml)
 
 As mentioned in a previous [blog post](https://ingridfiv.github.io/ingridsblog/felix-liebermanns-library-in-tokyo-part-i.html), Liebermann's books were dispersed across the general holdings of the University of Tokyo's library and have never been gathered into a single physical collection. And given that no complete catalogue exists, a lot of my time in Tokyo was spent finding Liebermann's books and making a new catalogue.
 
@@ -34,5 +34,3 @@ Liebermann had an impressive collection of rare books. The oldest book, accordin
 
 >Parts of the library can be searched through the University of Tokyo's normal library search. It can be searched [here](https://opac.dl.itc.u-tokyo.ac.jp/opac/opac_search/?lang=1), by going to 'Advanced Search' and choosing 'Liebermann Collection' from the 'Collections' tab under 'Search Options'. Note that this includes about half of the known items in the library. 
 
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vShydFeP5MV2Ri7u65GouWi5xVOYk8SI7-2DY20Op_T7uGSWGS_ITcjbdtLCwK5pKt8v7ElaAwj4De0/pubhtml?widget=true&amp;headers=false"></iframe>
