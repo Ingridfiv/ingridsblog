@@ -2,7 +2,7 @@ Title: The problems with 'Welsh' and 'English' in Ine's laws
 Category: article
 Date: 2025-09-16
 Authors: Ingrid Ivarsen
-Tags: Ine, Lex Salica, Alfred, translation, Latin
+Tags: Ine, Lex Salica, Alfred, translation, Latin, anglo-saxon law
 Summary: Historians and others have made extensive use of the ethnic labels found in Ine's laws. But what are they actually evidence of?
 
 The laws of the West Saxon king Ine (r. 688–726) are irresistible. They’re not the earliest laws we have, but they are much more revealing than any of the other seventh-century laws from the Anglo-Saxon kingdoms. I think few people are immediately taken with the dreary procedural rules in *Hlothhere & Eadric* (issued in the 680s) or the church-council-esque decree of King Wihtræd (695). Of course, the earliest surviving law-text, the laws of Æthelberht (d. c. 616), is fascinating, but mostly because of what it hides. And for some of us, there's too much that's hidden and unknowlable.
