@@ -5,7 +5,12 @@ Authors: Ingrid Ivarsen
 Summary: A complete-as-possible catalogue of the books owned by Felix Liebermann.
 Status: published
 
-[First of all, you can download copy of the catalogue here.]({static}/downloads/FL-catalogue-may–2026.xlsx) Or find it on Google sheets [here.](https://docs.google.com/spreadsheets/d/e/2PACX-1vShydFeP5MV2Ri7u65GouWi5xVOYk8SI7-2DY20Op_T7uGSWGS_ITcjbdtLCwK5pKt8v7ElaAwj4De0/pubhtml)
+
+First of all, you can download copy of the catalogue [here.]({static}/downloads/FL-catalogue-may–2026.xlsx) Or find it on Google sheets [here.](https://docs.google.com/spreadsheets/d/e/2PACX-1vShydFeP5MV2Ri7u65GouWi5xVOYk8SI7-2DY20Op_T7uGSWGS_ITcjbdtLCwK5pKt8v7ElaAwj4De0/pubhtml)
+
+Parts of the library can be searched through the University of Tokyo's normal library search. It can be searched [here](https://opac.dl.itc.u-tokyo.ac.jp/opac/opac_search/?lang=1), by going to 'Advanced Search' and choosing 'Liebermann Collection' from the 'Collections' tab under 'Search Options'. Note that this includes about half of the known items in the library. 
+
+–––––––––––––––––––––––––––––––––––
 
 As mentioned in a previous [blog post](https://ingridfiv.github.io/ingridsblog/felix-liebermanns-library-in-tokyo-part-i.html), Liebermann's books were dispersed across the general holdings of the University of Tokyo's library and have never been gathered into a single physical collection. And given that no complete catalogue exists, a lot of my time in Tokyo was spent finding Liebermann's books and making a new catalogue.
 
@@ -20,6 +25,9 @@ The catalogue drawn up in 1937 states that there are 5542 items in the library. 
 
 Most of the content of the library is unsurprising, given Liebermann's profession. According to my own categorisation, there are c. 1450 items relating to history (of which c. 260 in legal history), some 350 on literature, 200 or so on language and linguistics, and around 350 on contemporary politics and law (of which c. 50 relate to the first world war).
 
+![Hardy's catalogue]({static}/images/hardy.png)
+*Liebermann's copy of Hardy's *Descriptive catalogue of materials relating to the history of Great Britain and Ireland*, one of the most heavily annotated books in the library.*
+
 Around 550 items are primary sources and 200 are reference works. There are around 1000 items on the Middle Ages (including about 300 on Anglo-Saxon England), around 150 on the ancient period, and around 300 on the modern and early modern period. Almost 800 items relate to England, 380 to Germany, 138 to France, 40 to Scotland, c.40 to Scandinavia and around 20 each for Wales, Ireland and Italy. There are roughly 60 books relating to Jewish history, law and current affairs. There are also books on geography, philosophy, science, botany, agriculture, biology, music and a range of other things. 
 
 There is only one fiction book in the library, the second volume of Jude the Obscure by Thomas Hardy. Presumably Liebermann had a collection of fiction too – given that he described reading fiction as one of his three main past-times [^4] – but these may have been sold separately. 
@@ -32,5 +40,5 @@ Liebermann had an impressive collection of rare books. The oldest book, accordin
 
 
 
->Parts of the library can be searched through the University of Tokyo's normal library search. It can be searched [here](https://opac.dl.itc.u-tokyo.ac.jp/opac/opac_search/?lang=1), by going to 'Advanced Search' and choosing 'Liebermann Collection' from the 'Collections' tab under 'Search Options'. Note that this includes about half of the known items in the library. 
+
 
