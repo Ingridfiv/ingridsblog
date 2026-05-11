@@ -8,9 +8,9 @@ Status: published
 
 First of all, you can download copy of the catalogue [here.]({static}/downloads/FL-catalogue-may–2026.xlsx) Or find it on Google sheets [here.](https://docs.google.com/spreadsheets/d/e/2PACX-1vShydFeP5MV2Ri7u65GouWi5xVOYk8SI7-2DY20Op_T7uGSWGS_ITcjbdtLCwK5pKt8v7ElaAwj4De0/pubhtml)
 
-Parts of the library can be searched through the University of Tokyo's normal library search. It can be searched [here](https://opac.dl.itc.u-tokyo.ac.jp/opac/opac_search/?lang=1), by going to 'Advanced Search' and choosing 'Liebermann Collection' from the 'Collections' tab under 'Search Options'. Note that this includes about half of the known items in the library. 
+Parts of the library can be searched through the University of Tokyo's normal library search. It can be searched [here](https://opac.dl.itc.u-tokyo.ac.jp/opac/opac_search/?lang=1), by going to 'Advanced Search' and choosing 'Liebermann Collection' from the 'Collections' tab under 'Search Options'. This includes about half of the known items in the library. 
 
-–––––––––––––––––––––––––––––––––––
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 As mentioned in a previous [blog post](https://ingridfiv.github.io/ingridsblog/felix-liebermanns-library-in-tokyo-part-i.html), Liebermann's books were dispersed across the general holdings of the University of Tokyo's library and have never been gathered into a single physical collection. And given that no complete catalogue exists, a lot of my time in Tokyo was spent finding Liebermann's books and making a new catalogue.
 
