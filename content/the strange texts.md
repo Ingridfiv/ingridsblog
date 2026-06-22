@@ -1,6 +1,6 @@
 Title: The Appendices Texts
 Category: article
-Tags: æthelred, alfred, latin, quadripartitus
+Tags: æthelred, alfred, latin, quadripartitus, anglo-saxon law
 Authors: Ingrid Ivarsen
 Summary: What can we learn from some of the strangest Anglo-Saxon law-texts?
 Status: published

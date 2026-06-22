@@ -1,6 +1,6 @@
 Title: Felix Liebermann's letters
 Category: article
-Tags: Liebermann, Anglo-Saxon law, historiography
+Tags: Liebermann, historiography
 Authors: Ingrid Ivarsen
 Summary: the things I've learnt from letters sent to and from Liebermann
 Status: draft
@@ -14,3 +14,7 @@ But the letters have been a real pleasure! Some are, as ?Hazeltine noted in his 
 
 Also: have a long list of books and articles sent to FL from his colleages and friends. Ca 150 individuals. 
 
+Insert pictures of letters in UT
+Links to those digitised
+
+MENTION and explain (can't travel and see/too dear to order) Zunz archiv ones and add a page to the spreadsheet of letters

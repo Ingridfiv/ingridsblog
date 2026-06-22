@@ -1,8 +1,8 @@
 Title: A catalogue of the Liebermann Library in Tokyo
 Category: article
-Tags: Liebermann, Anglo-Saxon law, historiography
+Tags: Liebermann, historiography
 Authors: Ingrid Ivarsen
-Summary: A complete-as-possible catalogue of the books owned by Felix Liebermann.
+Summary: An as-complete-as-possible catalogue of the books owned by Felix Liebermann.
 Status: published
 
 

@@ -42,7 +42,7 @@ Mention some of the books that Arimitsu says he doesn't have, which he does, lik
 a lot of ancient primary sources (Latin)
 
 
-Letters: short
+
 Lending to book to POW
 Zinkeisen obit and letter
 books reviews etr (in Ungedruckte)
@@ -53,3 +53,5 @@ mention his categories -- for the most part uninteresting (though allows timelin
     sometimes interesting as when he strikes out 'tract belli' and write [something else]
 
     birthday and christmas books from wife [Mommsens' Römische Geschichte for christmas 1884 and a book on German lit for his birthday]
+
+    
