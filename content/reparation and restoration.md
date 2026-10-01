@@ -3,7 +3,7 @@ Category: blog
 Tags: Liebermann, first world war, Germany, Japan
 Authors: Ingrid Ivarsen
 Summary: Liebermann's library is only one of many European collections that made their way to Japan in the 1920s. Their journeys are part of a fascinating story of international aid and reparations in the aftermath of the First World War. 
-Status: published
+Status: draft
 
 
 
