@@ -1,6 +1,6 @@
 Title: Translation of IV Edgar
 Date: 2025-09-16
-Category: Translations
+Category: Translation
 Tags: Edgar, IV Edgar, translation, Latin
 Authors: Ingrid Ivarsen
 Summary: Translations of the Old English and Latin versions, both from Cambridge, Corpus Christi College MS 265.

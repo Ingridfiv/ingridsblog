@@ -38,14 +38,3 @@ lot of the war books/contemporary politics -- often disagrees and writes out his
 
 
 
-Letters: short
-Lending to book to POW
-Zinkeisen obit and letter
-books reviews etr (in Ungedruckte)
-Books he received from others (see post on letters)
-Papers for the AMerican historical congress 1914 -- marked as a 'Tract. belli'
-Also habit, as he mentions in a letter, of underlining in books. Lots of question marks too (sometimes accompanied with notes in his hand, other times not. But clearly him)
-mention his categories -- for the most part uninteresting (though allows timelines of when he acquired stuff, useful for understanding e.g. when he learnt OE)
-    sometimes interesting as when he strikes out 'tract belli' and write [something else]
-
-    birthday and christmas books from wife [Mommsens' Römische Geschichte for christmas 1884 and a book on German lit for his birthday]
