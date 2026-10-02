@@ -59,7 +59,7 @@ The speed with which the process of rebuilding started should, of course, be cre
 
 In fact, there was also a more general system for this kind of intellectual aid in the 1920s. The financial hardship and lack of access to academic resources after the war led to several such schemes being set up, for instance the ‘British Committee for Aiding Men of Letters and Science in Russia’.[^28] The International Committee for Intellectual Cooperation, part of the League of Nations, issued appeals on behalf of intellectuals in Austria and Hungary in 1922 and 1924, requesting book donations.[^29]  
 
-The situation was especially dire in Germany with its post-war inflation and financial trouble. The cost of literature meant that scholars struggled to keep up with developments in their field. For example, international subscriptions in the Prussian State Library dropped from 2300 before the war to 140 by 1920.[^30] A departmental library at the University of Munich had a budget of 2000 marks in 1922, but the subscription to a single international journal cost 10,000 marks.[^31] Publishing within Germany was also slowed down because of the high cost of paper.[^32] Liebermann himself noticed the consequences of this: he mentioned in a letter to an English colleague in 1921 that a review he had written had been cut to a fifth of the original length because the journal was reduced to a fifth due to this cost.[^33]  
+The situation was especially dire in Germany with its post-war inflation and financial trouble. The cost of literature meant that scholars struggled to keep up with developments in their field. For example, international subscriptions in the Prussian State Library dropped from 2300 before the war to 140 by 1920.[^30] A departmental library at the University of Munich had a budget of 2000 marks in 1922, but the subscription to a single international journal cost 10,000 marks.[^31] Publishing within Germany was also slowed down because of the high cost of paper.[^32] Liebermann himself noticed the consequences of this: he mentioned in a letter to an English colleague in 1921 that a review he had written had been cut to a fifth of the original length because the whole journal was reduced to a fifth due to this cost.[^33]  
 
 Intellectual aid was provided to German scholars in the form of literature, money, scientific instruments and fellowships, including by American, British and Japanese committees and funds.[^34] In some ways, these were a continuation of intellectual aid programmes set up during the war, for instance, the *Auskunfts- und Hilfsstelle für Deutsche im Ausland und Ausländer in Deutschland* established by Elisabeth Rotten, which provided scientific equipment and books to prisoners of war so that they could continue (or start) their education.[^35] In fact, Liebermann himself had contributed to this effort by lending books to a British prisoner in the Ruhleben camp near Berlin.[^36] Little did he know that his own library, including the books that had been on loan to Ruhleben, would end up in Tokyo through the same mechanism of intellectual aid.
 
@@ -71,7 +71,7 @@ Japanese efforts in the aftermath of the earthquake could therefore draw on an e
 ![sorting donations]({static}/images/donationsorting.jpg)
 *Librarians sorting through incoming donations and purchases. Courtesy of [The University of Tokyo General Library](https://da.dl.itc.u-tokyo.ac.jp/portal/assets/02cdad9a-6f99-43c8-5f00-e5149da92851?pos=31)*
 
-The university also received money. According to a report published in February 1926, donors included J.P. Morgan Jr., an American banker, who donated 5000 dollars, professors at the law faculty at the University of Paris, who donated 1000 Franc, and a group of Japanese students at the University of California, who donated 455 yen.[^40] The biggest donation came on the last day of the year in 1924, when the American businessman John D. Rockefeller informed university president Kozai that he was donating four million yen to the restoration of the library.[^41] This was enough to build a grand new library, completed in 1928, as we can still see today.
+The university also received money. According to a report published in February 1926, donors included J.P. Morgan Jr., an American banker, who donated 5000 dollars, professors at the law faculty at the University of Paris, who donated 1000 franc, and a group of Japanese students at the University of California, who donated 455 yen.[^40] The biggest donation came on the last day of the year in 1924, when the American businessman John D. Rockefeller informed university president Kozai that he was donating four million yen to the restoration of the library.[^41] This was enough to build a grand new library, completed in 1928, as we can still see today.
 
 
 ![library today]({static}/images/library2025.jpeg)
@@ -90,7 +90,8 @@ The concern (alongside providing aid) was British influence in Japan. “Bully-b
 He went on to say that “the best and most far-sighted sections of the University are undoubtedly pro-American and more particularly pro-English...[but] the dropping of the alliance has discouraged them somewhat and the pro-German sections are working tooth and nail...to stage a ‘come back’”.[^50] He therefore urged the British government quickly to make a gift of books, adding that: “These books get at and continue to get at the future intelligentsia, government officials etc. of the country”. As a Treasury official noted in agreement, books had "good propaganda results".[^51] 
 
 The choice of Tokyo Imperial University as the recipient – above other universities which had suffered equal amounts of damage – was related to the same desire to secure a position for Britain. Nichols pointed out to British officials that Tokyo University had a unique influence in Japanese society and that politicians, officials and other universities took their lead from Tokyo.[^52] Similar sentiments were circulated in an appeal to the League of Nations by Nitobe Inazō – at the time, a Japanese official in the International Committee on Intellectual Cooperation – who said that 
->“the reconstruction of Tokyo means...not merely that of a town or a city, but of the capital of the whole nation...The most important institution, the oldest, highest and largest, which has suffered severely, is the Imperial [Tokyo] University”.[^53] 
+>“the reconstruction of Tokyo means...not merely that of a town or a city, but of the capital of the whole nation...The most important institution, the oldest, highest and largest, which has suffered severely, is the Imperial [Tokyo] University”.[^53]
+
 Lord Curzon, the British Foreign Secretary, took this to heart and wrote to Lord Balfour, the president of the British Academy, that “The appeal of the Imperial [Tokyo] University, which is the training-ground of almost all the future officials of the Japanese Government, offers an opportunity to provide a permanent evidence of our feelings...”.[^54] 
 
 In the end, British authorities were convinced by the arguments of Nichols, ambassador Eliot and others in Japan. Despite some reluctance to find the money by the ‘Treasury tyrants’ – as Nichols called them in a letter accompanying the memo – the donation by the British government to Japan of £25,000 was eventually made in the summer of 1924, which was to take the form of books for Tokyo Imperial University.[^55] 
@@ -104,6 +105,7 @@ This proved to be a rather bigger project than first anticipated, taking almost 
 
 These books can still be found in the stacks in the General Library in Tokyo, bearing the inscription
 >“Presented to the Tokyo Imperial University from the British Nation as a token of sympathy and abiding friendship”. 
+
 The British books are the only ones among the national donations to carry a bespoke label – other donations have a generic label inserted by Tokyo University (with the relevant country inscribed). This label was, of course, an important aspect of the soft power that Britain hoped the donation would exert: “Book bearing inside their covers a plate or inscription showing that they are the gift of His Majesty’s Government will remain a standing and constantly refreshed record of the presentation and will in this way perpetuate the memory of a kindly act,” as a Foreign Office official remarked.[^59] 
 
 
@@ -124,7 +126,7 @@ Not only were German scholars invited to Japan, but many Japanese scholars went 
 
 Many of these travelling scholars – who were often assistant professors rather than students – brought back books to Japan, especially during the post-war period of hyperinflation in Germany when books could be bought for cheap. 
 
-Among the important collections still present in Japanese libraries today which arrived by this route are the libraries of **Paul Eltzbacher** (a German legal scholar of anarchism), **Carl Menger** (an Austrian economist) and **Otto von Gierke** (a German legal scholar and historian).[^70] The libraries of Menger and Gierke can be found in the holdings of Hitotsubashi University (Tokyo), while Eltzbacher's is in the Ōhara Institute of Social Science (Tokyo).
+Among the important collections still present in Japanese libraries today which arrived by this route are the libraries of **Paul Eltzbacher** (German legal scholar of anarchism), **Carl Menger** (Austrian economist) and **Otto von Gierke** (German legal scholar and historian).[^70] The libraries of Menger and Gierke can be found in the holdings of Hitotsubashi University (Tokyo), while Eltzbacher's is in the Ōhara Institute of Social Science (Tokyo).
 
 The University of Kyūshū acquired several collections through travelling academics, namely those of **Gustav Gross** (Austrian politician and economist), **Philipp Lotmar** (German legal scholar), **Paul Barth** (German philosopher) and **Carl Stumpf** (German philosopher and psychologist). These were purchased by the scholars Takachika Iguchi and Omori Kenzo on behalf of Kyūshū University around 1925–26.[^71]  
 
@@ -139,7 +141,7 @@ Many of the collections acquired by Japanese universities and academics – whet
 
 These many collections and libraries belonging to famous European scholars should be of interested to historians. Most belonged to scholars who made their names in the second half of the 19th century – such as Otto von Gierke and Hugo Preuss – representing an important period in German scholarship, especially legal. 
 
-Some collections are catalogued, but many are not (nor have they been kept together as a collection), so research can be challenging. But as my study of Felix Liebermann’s library has shown, there is much to be gained: from personal information in letters and notes to unpublished academic thoughts to displays of editing methods, and, perhaps most importantly, a better view of the intellectual formation of scholars in the 19th century. 
+Some collections are catalogued, but many are not (nor have they been kept together as a collection), so research can be challenging. But as my study of Felix Liebermann’s library has shown, there is much to be gained: from personal information in letters and notes to unpublished academic thoughts to displays of editing methods to the academic consequences of the First World War, and, perhaps most importantly, a better view of the intellectual formation of scholars in the 19th century. 
 
 
 ––––––––––––––––––––––––––––––––––––
@@ -147,11 +149,11 @@ Some collections are catalogued, but many are not (nor have they been kept toget
 
 Abbreviations
 
-**BAA** — British Academy Archive, London
-**JACAR** — Japan Center for Asian Historical Records/National Archive of Japan, Tokyo
-**NA** — The National Archives, London
-**OMR** — Office of the Messrs. Rockefeller
-**RAC** — Rockefeller Archive Centre, NY
+**BAA** — British Academy Archive, London;
+**JACAR** — Japan Center for Asian Historical Records/National Archive of Japan, Tokyo;
+**NA** — The National Archives, London;
+**OMR** — Office of the Messrs. Rockefeller;
+**RAC** — Rockefeller Archive Centre, NY;
 **UNLA** — United Nations Library & Archive, Geneva
 
 [^1]: Hideyuki Arimitsu, ‘The Liebermann Library in Tokyo’, in S. Jurasinski (et al) (eds), *English Law Before Magna Carta: Felix Liebermann and Die Gesetze der Angelsachsen* (2010), pp. 27–40.
@@ -195,7 +197,7 @@ Abbreviations
 [^39]: Anesaki Masaharu to John D. Rockefeller Jr, 20.05.1928, RAC/OMR, Series G, Box 130, Folder 996
 [^40]: Masaharu and Tamaki, ‘First Report on the reconstruction’, pp. 9–10, 39. 
 [^41]: The letter written from Rockefeller pledging his donation can be seen in reproduction in the Memorial Room in the General Library or [here](https://da.dl.itc.u-tokyo.ac.jp/portal/assets/70bd3c62-6cf4-07e2-3b73-89d3c7e75f17). A plaque outside the General Library states that Rockefeller’s four million yen donation is equivalent to 10 billion yen in modern money (as of 2008). 
-[^42]: Masaharu and Tamaki, ‘First Report on the reconstruction’, pp. 10–11. Some information on these collections can be found [here](https://tksosa.dijtokyo.org/). See also https://www.lib.u-tokyo.ac.jp/ja/library/general/collectionall.
+[^42]: Masaharu and Tamaki, ‘First Report on the reconstruction’, pp. 10–11. Some information on these collections can be found [here](https://tksosa.dijtokyo.org/). See also [here](https://www.lib.u-tokyo.ac.jp/ja/library/general/collectionall).
 [^43]: E.g. Sir Eliot to Curzon 22.11.1923 National Archive, London [NA] T/161/516/1, Eliot to Curzon 12.11.1923 NA FO/262/1586, Eliot to Tyrell 13.09.1923, NA T/161/516/1.
 [^44]: This was given immediately after the earthquake for food and other supplies; ‘Contribution by his Majesty’s Government for Earthquake Relief in Japan’ (1923), NA FO/262/1586, p. 373
 [^45]: ‘Contribution by his Majesty’s Government for Earthquake Relief in Japan’, Cabinet brief, 1923, NA FO/262/1586, p. 373
