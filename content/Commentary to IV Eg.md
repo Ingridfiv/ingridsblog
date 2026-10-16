@@ -77,14 +77,14 @@ There are also several long omissions in the Latin, at IV Eg 1.5a, 2.2, 9–10, 
 
 [^2]: see the translations in Whitelock, *English Historical Documents*, p. 439 and Robertson, *The Laws of the Kings of England from Edmund to Henry I*, p. 31.
 
-The omissions at 2.2 may also be caused by difficulty in understanding the Old English. The omission and truncation at IV Eg 9-10 has more consequences for the meaning of the chapter than other omissions. The Latin removes a reference to the futility of seeking sanctuary for the offenders and it slightly changes the focus in the penalty clause (IV Eg 10 OE: 'he shall nevertheless forfeit the cattle', Latin: 'he should suffer and incur no other loss except his cattle'). 
+ The omission and truncation at IV Eg 9-10 has more consequences for the meaning of the chapter than other omissions. The Latin removes a reference to the futility of seeking sanctuary for the offenders and it slightly changes the focus in the penalty clause (IV Eg 10 OE: 'he shall nevertheless forfeit the cattle', Latin: 'he should suffer and incur no other loss except his cattle'). 
 
-Other omissions suggest, as Dorothy Whitelock argued, that there was an attempt to shift away from the original’s focus on the northern Danelaw (see e.g. IV Eg 6, 12, 15). 
+Other omissions suggest, as Dorothy Whitelock argued in *English Historical Documents*, that there was an attempt to shift away from the original’s focus on the northern Danelaw (see e.g. IV Eg 6, 12, 15). 
 
 
 **MISCELLANEOUS**
 
-Other potentially significant changes include the addition of the phrase 'usus necessitas' at IV Eg 6 Latin, a phrase found in for example Augustine's *Civitate Dei*, ALcuin's *De Fide* and the Codex Theodosianus. The Latin also removes a the reference to adding decrees to the laws of the elders (IV Eg 2.1/2.1a). The Latin translates 'geneatmanna' as 'in seculo militans' (at IV Eg 1.1).[^3] And there are cross-references to other parts of the text in Latin, which do not occur in the Old English (IV Eg Lat 7, 10).
+Other potentially significant changes include the addition of the phrase 'usus necessitas' at IV Eg 6 Latin, a phrase found in for example Augustine's *Civitate Dei*, Alcuin's *De Fide* and the Codex Theodosianus. The Latin also removes a the reference to adding decrees to the laws of the elders (IV Eg 2.1/2.1a). The Latin translates 'geneatmanna' as 'in seculo militans' (at IV Eg 1.1).[^3] And there are cross-references to other parts of the text in Latin, which do not occur in the Old English (IV Eg Lat 7, 10).
 
 [^3]: see R. Sharpe, 'Official and Unofficial Latin Words in 11th- and 12th-Century England', in Ashdowne and White (eds), *Latin in Medieval Britain* (2017), pp. 257–8. 
 

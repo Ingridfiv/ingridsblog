@@ -139,7 +139,7 @@ Many of the collections acquired by Japanese universities and academics – whet
 
 **CONCLUSION**
 
-These many collections and libraries belonging to famous European scholars should be of interested to historians. Most belonged to scholars who made their names in the second half of the 19th century – such as Otto von Gierke and Hugo Preuss – representing an important period in German scholarship, especially legal. 
+These many collections and libraries belonging to famous European scholars should be of interest to historians. Most belonged to scholars who made their names in the second half of the 19th century – such as Otto von Gierke and Hugo Preuss – representing an important period in German scholarship, especially legal. 
 
 Some collections are catalogued, but many are not (nor have they been kept together as a collection), so research can be challenging. But as my study of Felix Liebermann’s library has shown, there is much to be gained: from personal information in letters and notes to unpublished academic thoughts to displays of editing methods to the academic consequences of the First World War, and, perhaps most importantly, a better view of the intellectual formation of scholars in the 19th century. 
 
